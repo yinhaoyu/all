@@ -1,0 +1,1608 @@
+{
+  "live": [
+    {
+      "num": 1,
+      "itemid": "香港台",
+      "name": "YCZX高清10801",
+      "urllist": "http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8"
+    },
+    {
+      "num": 2,
+      "itemid": "香港台",
+      "name": "翡翠台高清10802",
+      "urllist": "http://wshls.acgvideo.com/live/live_752869_9917726/playlist.m3u8"
+    },
+    {
+      "num": 3,
+      "itemid": "香港台",
+      "name": "翡翠台高清10803",
+      "urllist": "http://anchoredinversion.com/a2/bili.php?id=1213889id=xgtvbfc"
+    },
+    {
+      "num": 4,
+      "itemid": "香港台",
+      "name": "翡翠台高清10804",
+      "urllist": "http://wshls.acgvideo.com/live/live_752869_9917726/playlist.m3u8?wsSecret=0c85b7e4adbd07d8fddd69cd417238b4&wsTime=58562dee"
+    },
+    {
+      "num": 5,
+      "itemid": "香港台",
+      "name": "广东体育粤语英超HD",
+      "urllist": "http://125.88.92.166:30001/PLTV/88888956/224/3221227703/1.m3u8"
+    },
+    {
+      "num": 6,
+      "itemid": "香港台",
+      "name": "凤凰卫视中文",
+      "urllist": "http://my.fmiptv.cc/fmvlive/gehua_live.php?id=2e7b0cade5ee3ba5d5c0140c15d89f80"
+    },
+    {
+      "num": 7,
+      "itemid": "香港台",
+      "name": "凤凰卫视资讯",
+      "urllist": "http://my.fmiptv.cc/fmvlive/gehua_live.php?id=bd747d0d316f1287a9ce58cdead7718a"
+    },
+    {
+      "num": 8,
+      "itemid": "香港台",
+      "name": "凤凰卫视中文",
+      "urllist": "http://59.110.139.3:8080/wzynx?id=107"
+    },
+    {
+      "num": 9,
+      "itemid": "香港台",
+      "name": "凤凰卫视中文",
+      "urllist": "pplive://30089412ecb243f7b6a848a1e4d2a45f"
+    },
+    {
+      "num": 10,
+      "itemid": "香港台",
+      "name": "凤凰卫视中文",
+      "urllist": "http://my.fmiptv.cc/fmvlive/gehua_live.php?id=2e7b0cade5ee3ba5d5c0140c15d89f80"
+    },
+    {
+      "num": 11,
+      "itemid": "香港台",
+      "name": "凤凰卫视资讯",
+      "urllist": "http://59.110.139.3:8080/wzynx?id=110"
+    },
+    {
+      "num": 12,
+      "itemid": "香港台",
+      "name": "凤凰卫视资讯",
+      "urllist": "http://59.110.139.3:8080/wzypy?id=110"
+    },
+    {
+      "num": 13,
+      "itemid": "香港台",
+      "name": "凤凰卫视资讯",
+      "urllist": "pplive://08f9ed0afa5a40eab9f325ac8416a941"
+    },
+    {
+      "num": 14,
+      "itemid": "香港台",
+      "name": "凤凰卫视资讯",
+      "urllist": "http://my.fmiptv.cc/fmvlive/gehua_live.php?id=bd747d0d316f1287a9ce58cdead7718a"
+    },
+    {
+      "num": 15,
+      "itemid": "香港台",
+      "name": "凤凰卫视电影",
+      "urllist": "http://59.110.139.3:8080/wzynx?id=112"
+    },
+    {
+      "num": 16,
+      "itemid": "香港台",
+      "name": "凤凰卫视电影",
+      "urllist": "http://tv.cnbeijing.xyz/tvnx.php?id=112"
+    },
+    {
+      "num": 17,
+      "itemid": "香港台",
+      "name": "凤凰卫视电影",
+      "urllist": "http://kk.luoke.net.cn/cq/nxtv.php?id=112"
+    },
+    {
+      "num": 18,
+      "itemid": "香港台",
+      "name": "凤凰卫视电影",
+      "urllist": "http://kk.luoke.net.cn/hd/nxcatv.php?id=112"
+    },
+    {
+      "num": 19,
+      "itemid": "香港台",
+      "name": "TVB星河",
+      "urllist": "http://59.110.139.3:8080/wzypy?id=107"
+    },
+    {
+      "num": 20,
+      "itemid": "香港台",
+      "name": "TVB星河",
+      "urllist": "http://59.110.139.3:8080/wzytvpy?id=107"
+    },
+    {
+      "num": 21,
+      "itemid": "香港台",
+      "name": "TVB8",
+      "urllist": "http://59.110.139.3:8080/wzynx?id=109"
+    },
+    {
+      "num": 22,
+      "itemid": "香港台",
+      "name": "TVB8",
+      "urllist": "http://tv.cnbeijing.xyz/tvnx.php?id=109"
+    },
+    {
+      "num": 23,
+      "itemid": "香港台",
+      "name": "TVB8",
+      "urllist": "http://kk.luoke.net.cn/cq/nxtv.php?id=109"
+    },
+    {
+      "num": 24,
+      "itemid": "香港台",
+      "name": "TVB8",
+      "urllist": "http://kk.luoke.net.cn/hd/nxcatv.php?id=109"
+    },
+    {
+      "num": 25,
+      "itemid": "香港台",
+      "name": "星空卫视",
+      "urllist": "http://59.110.139.3:8080/wzynx?id=108"
+    },
+    {
+      "num": 26,
+      "itemid": "香港台",
+      "name": "星空卫视",
+      "urllist": "http://59.110.139.3:8080/wzypy?id=124"
+    },
+    {
+      "num": 27,
+      "itemid": "香港台",
+      "name": "星空卫视",
+      "urllist": "http://222.36.5.53:9800/live/xktv.m3u8"
+    },
+    {
+      "num": 28,
+      "itemid": "香港台",
+      "name": "星空卫视",
+      "urllist": "http://59.110.139.3:8080/wzytvpy?id=124"
+    },
+    {
+      "num": 29,
+      "itemid": "香港台",
+      "name": "星空卫视",
+      "urllist": "http://tv.cnbeijing.xyz/tvnx.php?id=108"
+    },
+    {
+      "num": 30,
+      "itemid": "香港台",
+      "name": "星空卫视",
+      "urllist": "http://tv.cnbeijing.xyz/tvpy.php?id=124"
+    },
+    {
+      "num": 31,
+      "itemid": "香港台",
+      "name": "星空卫视",
+      "urllist": "http://kk.luoke.net.cn/cq/nxtv.php?id=108"
+    },
+    {
+      "num": 32,
+      "itemid": "香港台",
+      "name": "星空卫视",
+      "urllist": "http://kk.luoke.net.cn/hd/nxcatv.php?id=108"
+    },
+    {
+      "num": 33,
+      "itemid": "香港台",
+      "name": "星空卫视",
+      "urllist": "http://httpdvb.slave.pygdzhcs.com:13164/playurl?programid=4200000124"
+    },
+    {
+      "num": 34,
+      "itemid": "香港台",
+      "name": "星空卫视",
+      "urllist": "http://42.63.204.15:13164/playurl?programid=4200900108&playtype=live&accesstoken=R5883CD68U30648289K7749A285M30F9F2BW273449&qamname=djammon&auth=no"
+    },
+    {
+      "num": 35,
+      "itemid": "香港台",
+      "name": "星空卫视电影",
+      "urllist": "http://59.110.139.3:8080/wzynx?id=111"
+    },
+    {
+      "num": 36,
+      "itemid": "香港台",
+      "name": "星空卫视电影",
+      "urllist": "http://tv.cnbeijing.xyz/tvnx.php?id=111"
+    },
+    {
+      "num": 37,
+      "itemid": "香港台",
+      "name": "星空卫视电影",
+      "urllist": "http://kk.luoke.net.cn/cq/nxtv.php?id=111"
+    },
+    {
+      "num": 38,
+      "itemid": "香港台",
+      "name": "星空卫视电影",
+      "urllist": "http://kk.luoke.net.cn/hd/nxcatv.php?id=111"
+    },
+    {
+      "num": 39,
+      "itemid": "香港台",
+      "name": "星空卫视电影",
+      "urllist": "http://42.63.204.15:13164/playurl?programid=4200900111&playtype=live&accesstoken=R5883CD68U30648289K7749A285M30F9F2BW273449&qamname=djammon&auth=no"
+    },
+    {
+      "num": 40,
+      "itemid": "香港台",
+      "name": "HBO亚洲电影",
+      "urllist": "http://59.110.139.3:8080/wzynx?id=115"
+    },
+    {
+      "num": 41,
+      "itemid": "香港台",
+      "name": "HBO亚洲电影",
+      "urllist": "http://kk.luoke.net.cn/cq/nxtv.php?id=115"
+    },
+    {
+      "num": 42,
+      "itemid": "香港台",
+      "name": "HBO亚洲电影",
+      "urllist": "http://kk.luoke.net.cn/hd/nxcatv.php?id=115"
+    },
+    {
+      "num": 43,
+      "itemid": "香港台",
+      "name": "HBO亚洲电影",
+      "urllist": "http://httpdvb.slave.pygdzhcs.com:13164/playurl?programid=4200000123"
+    },
+    {
+      "num": 44,
+      "itemid": "香港台",
+      "name": "HBO亚洲电影",
+      "urllist": "http://42.63.204.15:13164/playurl?programid=4200900115&playtype=live&accesstoken=R5883CD68U30648289K7749A285M30F9F2BW273449&qamname=djammon&auth=no"
+    },
+    {
+      "num": 45,
+      "itemid": "香港台",
+      "name": "天映频道",
+      "urllist": "http://59.110.139.3:8080/wzynx?id=116"
+    },
+    {
+      "num": 46,
+      "itemid": "香港台",
+      "name": "天映频道",
+      "urllist": "http://kk.luoke.net.cn/cq/nxtv.php?id=116"
+    },
+    {
+      "num": 47,
+      "itemid": "香港台",
+      "name": "天映频道",
+      "urllist": "http://kk.luoke.net.cn/hd/nxcatv.php?id=116"
+    },
+    {
+      "num": 48,
+      "itemid": "香港台",
+      "name": "天映频道",
+      "urllist": "http://httpdvb.slave.pygdzhcs.com:13164/playurl?programid=4200000105"
+    },
+    {
+      "num": 49,
+      "itemid": "香港台",
+      "name": "天映频道",
+      "urllist": "http://42.63.204.15:13164/playurl?programid=4200900116&playtype=live&accesstoken=R5883CD68U30648289K7749A285M30F9F2BW273449&qamname=djammon&auth=no"
+    },
+    {
+      "num": 50,
+      "itemid": "香港台",
+      "name": "国家地理",
+      "urllist": "http://59.110.139.3:8080/wzynx?id=114"
+    },
+    {
+      "num": 51,
+      "itemid": "香港台",
+      "name": "国家地理",
+      "urllist": "http://tv.cnbeijing.xyz/tvnx.php?id=114"
+    },
+    {
+      "num": 52,
+      "itemid": "香港台",
+      "name": "国家地理",
+      "urllist": "http://kk.luoke.net.cn/cq/nxtv.php?id=114"
+    },
+    {
+      "num": 53,
+      "itemid": "香港台",
+      "name": "凤凰卫视中文",
+      "urllist": "http://tv.cnbeijing.xyz/tvnx.php?id=107"
+    },
+    {
+      "num": 54,
+      "itemid": "香港台",
+      "name": "星空卫视",
+      "urllist": "http://tv.cnbeijing.xyz/tvnx.php?id=108"
+    },
+    {
+      "num": 55,
+      "itemid": "香港台",
+      "name": "TVB8",
+      "urllist": "http://tv.cnbeijing.xyz/tvnx.php?id=109"
+    },
+    {
+      "num": 56,
+      "itemid": "香港台",
+      "name": "凤凰卫视资讯",
+      "urllist": "http://tv.cnbeijing.xyz/tvnx.php?id=110"
+    },
+    {
+      "num": 57,
+      "itemid": "香港台",
+      "name": "美亚电影HD",
+      "urllist": "http://kb1.ottclub.info:443/kitty/c704.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 58,
+      "itemid": "香港台",
+      "name": "星卫HD电影",
+      "urllist": "http://kb1.ottclub.info:443/water/c705.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 59,
+      "itemid": "香港台",
+      "name": "星空卫视电影",
+      "urllist": "http://tv.cnbeijing.xyz/tvnx.php?id=111"
+    },
+    {
+      "num": 60,
+      "itemid": "香港台",
+      "name": "凤凰卫视电影",
+      "urllist": "http://tv.cnbeijing.xyz/tvnx.php?id=112"
+    },
+    {
+      "num": 61,
+      "itemid": "香港台",
+      "name": "[V]音乐亚洲",
+      "urllist": "http://tv.cnbeijing.xyz/tvnx.php?id=113"
+    },
+    {
+      "num": 62,
+      "itemid": "香港台",
+      "name": "国家地理",
+      "urllist": "http://tv.cnbeijing.xyz/tvnx.php?id=114"
+    },
+    {
+      "num": 63,
+      "itemid": "香港台",
+      "name": "HBO亚洲电影",
+      "urllist": "http://tv.cnbeijing.xyz/tvnx.php?id=115"
+    },
+    {
+      "num": 64,
+      "itemid": "香港台",
+      "name": "天映频道",
+      "urllist": "http://tv.cnbeijing.xyz/tvnx.php?id=116"
+    },
+    {
+      "num": 65,
+      "itemid": "香港台",
+      "name": "CHC高清电影",
+      "urllist": "http://tv.cnbeijing.xyz/tvnx.php?id=121"
+    },
+    {
+      "num": 66,
+      "itemid": "香港台",
+      "name": "HOT亚洲影院",
+      "urllist": "http://tv.cnbeijing.xyz/tvnx.php?id=162"
+    },
+    {
+      "num": 67,
+      "itemid": "香港台",
+      "name": "HOT欧美影院",
+      "urllist": "http://tv.cnbeijing.xyz/tvnx.php?id=163"
+    },
+    {
+      "num": 68,
+      "itemid": "香港台",
+      "name": "HOT精品剧场",
+      "urllist": "http://tv.cnbeijing.xyz/tvnx.php?id=164"
+    },
+    {
+      "num": 69,
+      "itemid": "香港台",
+      "name": "新视觉HD",
+      "urllist": "http://tv.cnbeijing.xyz/tvnx.php?id=165"
+    },
+    {
+      "num": 70,
+      "itemid": "香港台",
+      "name": "华娱卫视",
+      "urllist": "http://tv.cnbeijing.xyz/tvnx.php?id=106"
+    },
+    {
+      "num": 71,
+      "itemid": "香港台",
+      "name": "凤凰视频一台",
+      "urllist": "http://zv.3gv.ifeng.com/live/zixun800k.m3u8 "
+    },
+    {
+      "num": 72,
+      "itemid": "香港台",
+      "name": "凤凰视频二台",
+      "urllist": "http://zv.3gv.ifeng.com/live/zhongwen800k.m3u8 "
+    },
+    {
+      "num": 73,
+      "itemid": "香港台",
+      "name": "凤凰视频三台",
+      "urllist": "http://zv.3gv.ifeng.com/live/hongkong800k.m3u8"
+    },
+    {
+      "num": 74,
+      "itemid": "香港台",
+      "name": "香港卫视",
+      "urllist": "rtmp://live.hkstv.hk.lxdns.com/live/hks"
+    },
+    {
+      "num": 75,
+      "itemid": "香港台",
+      "name": "RHK-31",
+      "urllist": "http://rthklive1-lh.akamaiHD.net:80/i/rthk31_1@167495/index_1296_av-b.m3u8#"
+    },
+    {
+      "num": 76,
+      "itemid": "香港台",
+      "name": "RHK-32",
+      "urllist": "http://rthklive2-lh.akamaiHD.net/i/rthk32_1@168450/index_1296_av-b.m3u8#"
+    },
+    {
+      "num": 77,
+      "itemid": "香港台",
+      "name": "澳门莲花",
+      "urllist": "rtmp://3xhtut.live1.z1.pili.qiniucdn.com/lotustv/5562e9e4d409d24c9600075c"
+    },
+    {
+      "num": 78,
+      "itemid": "香港台",
+      "name": "澳亚卫视",
+      "urllist": "http://live.mastvnet.com/n1rtlHG/500/live.m3u8"
+    },
+    {
+      "num": 79,
+      "itemid": "香港台",
+      "name": "MTV音乐",
+      "urllist": "http://222.191.24.6:6610/2/2/ch00000090990000001155/index.m3u8?ispcode=3"
+    },
+    {
+      "num": 80,
+      "itemid": "香港台",
+      "name": "粤语电影",
+      "urllist": "http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yylbpd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1"
+    },
+    {
+      "num": 81,
+      "itemid": "香港台",
+      "name": "澳亚卫视",
+      "urllist": "http://live.mastvnet.com/n1rtlHG/500/live.m3u8"
+    },
+    {
+      "num": 82,
+      "itemid": "香港台",
+      "name": "澳门莲花",
+      "urllist": "http://live-hls.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8"
+    },
+    {
+      "num": 83,
+      "itemid": "香港台",
+      "name": "澳衛澳門",
+      "urllist": "http://live4.tdm.com.mo:80/ch1/_definst_//ch1.live/playlist.m3u8"
+    },
+    {
+      "num": 84,
+      "itemid": "香港台",
+      "name": "澳亞衛視",
+      "urllist": "http://live.mastvnet.com/n1rtlHG/500/live.m3u8"
+    },
+    {
+      "num": 85,
+      "itemid": "香港台",
+      "name": "澳门Macau",
+      "urllist": "http://live4.tdm.com.mo:80/ch3/_definst_//ch3.live/playlist.m3u8"
+    },
+    {
+      "num": 86,
+      "itemid": "香港台",
+      "name": "香港电视31",
+      "urllist": "http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8#"
+    },
+    {
+      "num": 87,
+      "itemid": "香港台",
+      "name": "香港电视32",
+      "urllist": "http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8"
+    },
+    {
+      "num": 88,
+      "itemid": "香港台",
+      "name": "耀才财经台",
+      "urllist": "http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8"
+    },
+    {
+      "num": 89,
+      "itemid": "香港台",
+      "name": "LondonLive(LQ)",
+      "urllist": "http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8"
+    },
+    {
+      "num": 90,
+      "itemid": "香港台",
+      "name": "翡翠台锁码",
+      "urllist": "p2p://211.75.214.186:9906/57a7c08c0002bd9e3fc8017a2f71d955.ts"
+    },
+    {
+      "num": 91,
+      "itemid": "香港台",
+      "name": "翡翠J2锁码",
+      "urllist": "p2p://211.75.214.186:9906/57a7c0be00081d483fc8c62a0bb4efe1.ts"
+    },
+    {
+      "num": 92,
+      "itemid": "香港台",
+      "name": "翡翠J5锁码",
+      "urllist": "p2p://211.75.214.186:9906/57a7c074000daec53fc7a68797ae22a4.ts"
+    },
+    {
+      "num": 93,
+      "itemid": "香港台",
+      "name": "TVB明珠锁码",
+      "urllist": "p2p://211.75.214.186:9906/57a7c0a500034af63fc86346b8ed1307.ts"
+    },
+    {
+      "num": 94,
+      "itemid": "香港台",
+      "name": "互动新闻锁码",
+      "urllist": "p2p://211.75.214.186:9906/57a7c0e00001f1f93fc94966138cf817.ts"
+    },
+    {
+      "num": 95,
+      "itemid": "香港台",
+      "name": "VIUTV锁码",
+      "urllist": "p2p://211.75.214.186:9906/57a7c0470000d9593fc6f376b7420bdf.ts"
+    },
+    {
+      "num": 96,
+      "itemid": "台湾台",
+      "name": "三立都會台",
+      "urllist": "http://bcoveliveios-i.akamaihd.net/hls/live/226707/4338955585001/master.m3u8"
+    },
+    {
+      "num": 97,
+      "itemid": "台湾台",
+      "name": "三立台湾台",
+      "urllist": "http://bcoveliveios-i.akamaihd.net/hls/live/226708/4338955585001/master.m3u8"
+    },
+    {
+      "num": 98,
+      "itemid": "台湾台",
+      "name": "Syfy恐怖电影",
+      "urllist": "http://kb1.ottclub.info:443/kitty/c716.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 99,
+      "itemid": "台湾台",
+      "name": "CI罪案现场",
+      "urllist": "http://kb1.ottclub.info:443/kitty/c558.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 100,
+      "itemid": "台湾台",
+      "name": "大爱HD",
+      "urllist": "http://kb1.ottclub.info:443/water/c559.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 101,
+      "itemid": "台湾台",
+      "name": "CATCHPLAY电影",
+      "urllist": "http://kb1.ottclub.info:443/kitty/c655.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 102,
+      "itemid": "台湾台",
+      "name": "中视新闻",
+      "urllist": "http://kb1.ottclub.info:443/kitty/c656.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 103,
+      "itemid": "台湾台",
+      "name": "八大第1HD",
+      "urllist": "http://kb1.ottclub.info:443/water/c657.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 104,
+      "itemid": "台湾台",
+      "name": "卫视中文HD",
+      "urllist": "http://kb1.ottclub.info:443/water/c658.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 105,
+      "itemid": "台湾台",
+      "name": "三立都会HD",
+      "urllist": "http://kb1.ottclub.info:443/water/c659.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 106,
+      "itemid": "台湾台",
+      "name": "TVBS欢乐HD",
+      "urllist": "http://kb1.ottclub.info:443/water/c660.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 107,
+      "itemid": "台湾台",
+      "name": "三立新闻HD",
+      "urllist": "http://kb1.ottclub.info:443/water/c661.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 108,
+      "itemid": "台湾台",
+      "name": "TVBS新闻HD",
+      "urllist": "http://kb1.ottclub.info:443/water/c662.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 109,
+      "itemid": "台湾台",
+      "name": "纬来体育HD",
+      "urllist": "http://kb1.ottclub.info:443/water/c663.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 110,
+      "itemid": "台湾台",
+      "name": "纬来日本HD",
+      "urllist": "http://kb1.ottclub.info:443/water/c664.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 111,
+      "itemid": "台湾台",
+      "name": "FOX体育2",
+      "urllist": "http://kb1.ottclub.info:443/kitty/c665.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 112,
+      "itemid": "台湾台",
+      "name": "纬来育乐",
+      "urllist": "http://kb1.ottclub.info:443/kitty/c666.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 113,
+      "itemid": "台湾台",
+      "name": "卫视电影",
+      "urllist": "http://kb1.ottclub.info:443/kitty/c667.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 114,
+      "itemid": "台湾台",
+      "name": "MOMO亲子",
+      "urllist": "http://kb1.ottclub.info:443/kitty/c668.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 115,
+      "itemid": "台湾台",
+      "name": "中天新闻HD",
+      "urllist": "http://kb1.ottclub.info:443/water/c669.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 116,
+      "itemid": "台湾台",
+      "name": "TCL旅游生活",
+      "urllist": "http://kb1.ottclub.info:443/water/c670.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 117,
+      "itemid": "台湾台",
+      "name": "台视HD",
+      "urllist": "http://kb1.ottclub.info:443/water/c671.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 118,
+      "itemid": "台湾台",
+      "name": "华视HD",
+      "urllist": "http://kb1.ottclub.info:443/water/c672.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 119,
+      "itemid": "台湾台",
+      "name": "WIN综合HD",
+      "urllist": "http://kb1.ottclub.info:443/water/c673.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 120,
+      "itemid": "台湾台",
+      "name": "动物星球",
+      "urllist": "http://kb1.ottclub.info:443/water/c676.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 121,
+      "itemid": "台湾台",
+      "name": "CN卡通频道",
+      "urllist": "http://kb1.ottclub.info:443/water/c678.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 122,
+      "itemid": "台湾台",
+      "name": "AXN动作电影",
+      "urllist": "http://kb1.ottclub.info:443/water/c679.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 123,
+      "itemid": "台湾台",
+      "name": "DMAX",
+      "urllist": "http://kb1.ottclub.info:443/kitty/c700.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 124,
+      "itemid": "台湾台",
+      "name": "中视菁采",
+      "urllist": "http://kb1.ottclub.info:443/kitty/c701.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 125,
+      "itemid": "台湾台",
+      "name": "FOX家庭影院",
+      "urllist": "http://kb1.ottclub.info:443/water/c702.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 126,
+      "itemid": "台湾台",
+      "name": "环球影院",
+      "urllist": "http://kb1.ottclub.info:443/kitty/c703.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 127,
+      "itemid": "台湾台",
+      "name": "美亚电影HD",
+      "urllist": "http://kb1.ottclub.info:443/kitty/c704.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 128,
+      "itemid": "台湾台",
+      "name": "星卫HD电影",
+      "urllist": "http://kb1.ottclub.info:443/water/c705.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 129,
+      "itemid": "台湾台",
+      "name": "国家地理HD",
+      "urllist": "http://kb1.ottclub.info:443/water/c706.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 130,
+      "itemid": "台湾台",
+      "name": "国家地理野生",
+      "urllist": "http://kb1.ottclub.info:443/kitty/c707.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 131,
+      "itemid": "台湾台",
+      "name": "ANIMAX动漫HD",
+      "urllist": "http://kb1.ottclub.info:443/kitty/c708.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 132,
+      "itemid": "台湾台",
+      "name": "纬来戏剧",
+      "urllist": "http://kb1.ottclub.info:443/water/c710.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 133,
+      "itemid": "台湾台",
+      "name": "卫视合家欢",
+      "urllist": "http://kb1.ottclub.info:443/kitty/c711.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 134,
+      "itemid": "台湾台",
+      "name": "非凡新闻",
+      "urllist": "http://kb1.ottclub.info:443/water/c712.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 135,
+      "itemid": "台湾台",
+      "name": "国兴卫视",
+      "urllist": "http://kb1.ottclub.info:443/water/c713.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 136,
+      "itemid": "台湾台",
+      "name": "东风37",
+      "urllist": "http://kb1.ottclub.info:443/kitty/c714.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 137,
+      "itemid": "台湾台",
+      "name": "八大戏剧",
+      "urllist": "http://kb1.ottclub.info:443/water/c715.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 138,
+      "itemid": "台湾台",
+      "name": "韩国tvN娱乐",
+      "urllist": "http://kb1.ottclub.info:443/kitty/c717.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 139,
+      "itemid": "台湾台",
+      "name": "韩国娱乐",
+      "urllist": "http://kb1.ottclub.info:443/kitty/c718.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 140,
+      "itemid": "台湾台",
+      "name": "BBC生活",
+      "urllist": "http://kb1.ottclub.info:443/kitty/c719.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 141,
+      "itemid": "台湾台",
+      "name": "中天综合HD",
+      "urllist": "http://kb1.ottclub.info:443/water/c720.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 142,
+      "itemid": "台湾台",
+      "name": "BBC生活",
+      "urllist": "http://kb1.ottclub.info:443/kitty/c721.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 143,
+      "itemid": "台湾台",
+      "name": "博斯高球",
+      "urllist": "http://kb1.ottclub.info:443/kitty/c722.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 144,
+      "itemid": "台湾台",
+      "name": "三立财经",
+      "urllist": "http://kb1.ottclub.info:443/kitty/c723.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 145,
+      "itemid": "台湾台",
+      "name": "Babytv",
+      "urllist": "http://kb1.ottclub.info:443/kitty/c724.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 146,
+      "itemid": "台湾台",
+      "name": "JET综合",
+      "urllist": "http://kb1.ottclub.info:443/water/c725.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 147,
+      "itemid": "台湾台",
+      "name": "年代MUCH",
+      "urllist": "http://kb1.ottclub.info:443/kitty/c726.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 148,
+      "itemid": "台湾台",
+      "name": "东森幼幼",
+      "urllist": "http://kb1.ottclub.info:443/water/c727.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 149,
+      "itemid": "台湾台",
+      "name": "中天娱乐",
+      "urllist": "http://kb1.ottclub.info:443/water/c728.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 150,
+      "itemid": "台湾台",
+      "name": "日本Z频道",
+      "urllist": "http://kb1.ottclub.info:443/kitty/c729.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 151,
+      "itemid": "台湾台",
+      "name": "FOX娱乐HD",
+      "urllist": "http://kb1.ottclub.info:443/water/c731.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 152,
+      "itemid": "台湾台",
+      "name": "壹新闻",
+      "urllist": "http://kb1.ottclub.info:443/water/c732.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 153,
+      "itemid": "台湾台",
+      "name": "东森财经新闻",
+      "urllist": "http://kb1.ottclub.info:443/water/c733.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 154,
+      "itemid": "台湾台",
+      "name": "东森电影",
+      "urllist": "http://kb1.ottclub.info:443/water/c734.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 155,
+      "itemid": "台湾台",
+      "name": "纬来综合",
+      "urllist": "http://kb1.ottclub.info:443/kitty/c735.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 156,
+      "itemid": "台湾台",
+      "name": "年代新闻HD",
+      "urllist": "http://kb1.ottclub.info:443/water/c736.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 157,
+      "itemid": "台湾台",
+      "name": "东森综合",
+      "urllist": "http://kb1.ottclub.info:443/kitty/c737.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 158,
+      "itemid": "台湾台",
+      "name": "壹综合",
+      "urllist": "http://kb1.ottclub.info:443/kitty/c738.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 159,
+      "itemid": "台湾台",
+      "name": "中视HD",
+      "urllist": "http://kb1.ottclub.info:443/water/c739.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 160,
+      "itemid": "台湾台",
+      "name": "韩国tvN娱乐",
+      "urllist": "http://kb1.ottclub.info:443/kitty/c740.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 161,
+      "itemid": "台湾台",
+      "name": "MTV音乐HD",
+      "urllist": "http://kb1.ottclub.info:443/kitty/c741.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 162,
+      "itemid": "台湾台",
+      "name": "星卫娱乐",
+      "urllist": "http://kb1.ottclub.info:443/kitty/c742.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 163,
+      "itemid": "台湾台",
+      "name": "EVE健康生活",
+      "urllist": "http://kb1.ottclub.info:443/kitty/c743.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 164,
+      "itemid": "台湾台",
+      "name": "探索世界HD",
+      "urllist": "http://kb1.ottclub.info:443/water/c744.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 165,
+      "itemid": "台湾台",
+      "name": "卫视西片HD",
+      "urllist": "http://kb1.ottclub.info:443/water/c746.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 166,
+      "itemid": "台湾台",
+      "name": "探索科学",
+      "urllist": "http://kb1.ottclub.info:443/kitty/c747.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA"
+    },
+    {
+      "num": 167,
+      "itemid": "台湾台",
+      "name": "东森新闻",
+      "urllist": "http://61.222.191.241/live/ch01/playlist.m3u8"
+    },
+    {
+      "num": 168,
+      "itemid": "台湾台",
+      "name": "东森戏剧",
+      "urllist": "http://61.222.191.241/live/ch02/playlist.m3u8"
+    },
+    {
+      "num": 169,
+      "itemid": "台湾台",
+      "name": "东森综合",
+      "urllist": "http://61.222.191.241/live/ch03/playlist.m3u8"
+    },
+    {
+      "num": 170,
+      "itemid": "台湾台",
+      "name": "东森幼幼",
+      "urllist": "http://61.222.191.241/live/ch04/playlist.m3u8"
+    },
+    {
+      "num": 171,
+      "itemid": "台湾台",
+      "name": "FOX体育2",
+      "urllist": "http://61.222.191.241/live/ch05/playlist.m3u8"
+    },
+    {
+      "num": 172,
+      "itemid": "台湾台",
+      "name": "纬来戏剧",
+      "urllist": "http://61.216.79.193/live/ch06/playlist.m3u8"
+    },
+    {
+      "num": 173,
+      "itemid": "台湾台",
+      "name": "纬来体育HD",
+      "urllist": "http://61.216.79.193/live/ch07/playlist.m3u8"
+    },
+    {
+      "num": 174,
+      "itemid": "台湾台",
+      "name": "纬来日本",
+      "urllist": "http://61.216.79.193/live/ch08/playlist.m3u8"
+    },
+    {
+      "num": 175,
+      "itemid": "台湾台",
+      "name": "纬来综合",
+      "urllist": "http://61.216.79.193/live/ch09/playlist.m3u8"
+    },
+    {
+      "num": 176,
+      "itemid": "台湾台",
+      "name": "纬来育乐",
+      "urllist": "http://61.216.79.193/live/ch10/playlist.m3u8"
+    },
+    {
+      "num": 177,
+      "itemid": "台湾台",
+      "name": "HBO亚洲影院",
+      "urllist": "http://61.222.191.25/live/ch11/playlist.m3u8"
+    },
+    {
+      "num": 178,
+      "itemid": "台湾台",
+      "name": "FOX体育",
+      "urllist": "http://61.222.191.25/live/ch12/playlist.m3u8"
+    },
+    {
+      "num": 179,
+      "itemid": "台湾台",
+      "name": "非凡新闻HD",
+      "urllist": "http://61.222.191.25/live/ch14/playlist.m3u8"
+    },
+    {
+      "num": 180,
+      "itemid": "台湾台",
+      "name": "中天新闻HD",
+      "urllist": "http://61.222.191.25/live/ch15/playlist.m3u8"
+    },
+    {
+      "num": 181,
+      "itemid": "台湾台",
+      "name": "人间卫视",
+      "urllist": "http://61.216.91.103/live/ch16/playlist.m3u8"
+    },
+    {
+      "num": 182,
+      "itemid": "台湾台",
+      "name": "凤凰卫视资讯HD",
+      "urllist": "http://61.216.91.103/live/ch20/playlist.m3u8"
+    },
+    {
+      "num": 183,
+      "itemid": "台湾台",
+      "name": "八大第一",
+      "urllist": "http://61.216.131.1/live/ch23/playlist.m3u8"
+    },
+    {
+      "num": 184,
+      "itemid": "台湾台",
+      "name": "八大戏剧",
+      "urllist": "http://61.216.131.1/live/ch24/playlist.m3u8"
+    },
+    {
+      "num": 185,
+      "itemid": "台湾台",
+      "name": "八大综合",
+      "urllist": "http://61.216.131.1/live/ch25/playlist.m3u8"
+    },
+    {
+      "num": 186,
+      "itemid": "台湾台",
+      "name": "CN卡通频道",
+      "urllist": "http://61.222.191.61/live/ch26/playlist.m3u8"
+    },
+    {
+      "num": 187,
+      "itemid": "台湾台",
+      "name": "TVBS新闻HD",
+      "urllist": "http://61.222.191.61/live/ch27/playlist.m3u8"
+    },
+    {
+      "num": 188,
+      "itemid": "台湾台",
+      "name": "纬来电影",
+      "urllist": "http://61.216.131.133/live/ch31/playlist.m3u8"
+    },
+    {
+      "num": 189,
+      "itemid": "台湾台",
+      "name": "CINEMAX影院",
+      "urllist": "http://61.216.131.133/live/ch32/playlist.m3u8"
+    },
+    {
+      "num": 190,
+      "itemid": "台湾台",
+      "name": "非凡新闻",
+      "urllist": "http://61.222.191.25/live/ch14/playlist.m3u8"
+    },
+    {
+      "num": 191,
+      "itemid": "台湾台",
+      "name": "中天新闻",
+      "urllist": "http://61.222.191.25/live/ch15/playlist.m3u8"
+    },
+    {
+      "num": 192,
+      "itemid": "台湾台",
+      "name": "八大第一",
+      "urllist": "http://61.216.131.1/live/ch23/playlist.m3u8"
+    },
+    {
+      "num": 193,
+      "itemid": "台湾台",
+      "name": "八大戏剧",
+      "urllist": "http://61.216.131.1/live/ch24/playlist.m3u8"
+    },
+    {
+      "num": 194,
+      "itemid": "台湾台",
+      "name": "八大综合",
+      "urllist": "http://61.216.131.1/live/ch25/playlist.m3u8"
+    },
+    {
+      "num": 195,
+      "itemid": "台湾台",
+      "name": "Fox Sport2",
+      "urllist": "http://61.222.191.241/live/ch05/playlist.m3u8"
+    },
+    {
+      "num": 196,
+      "itemid": "台湾台",
+      "name": "纬来戏剧",
+      "urllist": "http://61.216.79.193/live/ch06/playlist.m3u8"
+    },
+    {
+      "num": 197,
+      "itemid": "台湾台",
+      "name": "纬来体育",
+      "urllist": "http://61.216.79.193/live/ch07/playlist.m3u8"
+    },
+    {
+      "num": 198,
+      "itemid": "台湾台",
+      "name": "纬来日本",
+      "urllist": "http://61.216.79.193/live/ch08/playlist.m3u8"
+    },
+    {
+      "num": 199,
+      "itemid": "台湾台",
+      "name": "纬来综合",
+      "urllist": "http://61.216.79.193/live/ch09/playlist.m3u8"
+    },
+    {
+      "num": 200,
+      "itemid": "台湾台",
+      "name": "纬来育乐",
+      "urllist": "http://61.216.79.193/live/ch10/playlist.m3u8"
+    },
+    {
+      "num": 201,
+      "itemid": "台湾台",
+      "name": "HBO",
+      "urllist": "http://61.222.191.25/live/ch11/playlist.m3u8"
+    },
+    {
+      "num": 202,
+      "itemid": "台湾台",
+      "name": "Fox Sport",
+      "urllist": "http://61.222.191.25/live/ch12/playlist.m3u8"
+    },
+    {
+      "num": 203,
+      "itemid": "台湾台",
+      "name": "NHK",
+      "urllist": "http://61.222.191.25/live/ch13/playlist.m3u8"
+    },
+    {
+      "num": 204,
+      "itemid": "台湾台",
+      "name": "Cartoon Network",
+      "urllist": "http://61.222.191.61/live/ch26/playlist.m3u8"
+    },
+    {
+      "num": 205,
+      "itemid": "台湾台",
+      "name": "TVBS",
+      "urllist": "http://61.222.191.61/live/ch27/playlist.m3u8"
+    },
+    {
+      "num": 206,
+      "itemid": "台湾台",
+      "name": "菲律宾",
+      "urllist": "http://61.222.191.61/live/ch29/playlist.m3u8"
+    },
+    {
+      "num": 207,
+      "itemid": "台湾台",
+      "name": "印尼",
+      "urllist": "http://61.222.191.61/live/ch30/playlist.m3u8"
+    },
+    {
+      "num": 208,
+      "itemid": "台湾台",
+      "name": "纬来电影",
+      "urllist": "http://61.216.131.133/live/ch31/playlist.m3u8"
+    },
+    {
+      "num": 209,
+      "itemid": "台湾台",
+      "name": "CINEMAX",
+      "urllist": "http://61.216.131.133/live/ch32/playlist.m3u8"
+    },
+    {
+      "num": 210,
+      "itemid": "台湾台",
+      "name": "靖天國際台",
+      "urllist": "http://211.22.61.109/stc/ch168169.m3u8"
+    },
+    {
+      "num": 211,
+      "itemid": "台湾台",
+      "name": "靖天國際台",
+      "urllist": "http://211.22.61.109/stc/ch168159.m3u8"
+    },
+    {
+      "num": 212,
+      "itemid": "台湾台",
+      "name": "靖天日本台",
+      "urllist": "http://211.22.61.109/stc/ch168166.m3u8"
+    },
+    {
+      "num": 213,
+      "itemid": "台湾台",
+      "name": "靖天日本台",
+      "urllist": "http://211.22.61.109/stc/ch168156.m3u8"
+    },
+    {
+      "num": 214,
+      "itemid": "台湾台",
+      "name": "靖洋卡通台",
+      "urllist": "http://211.22.61.109/stc/ch168168.m3u8"
+    },
+    {
+      "num": 215,
+      "itemid": "台湾台",
+      "name": "靖天卡通台",
+      "urllist": "http://211.22.61.109/stc/ch168164.m3u8"
+    },
+    {
+      "num": 216,
+      "itemid": "台湾台",
+      "name": "靖天資訊台",
+      "urllist": "http://211.22.61.109/stc/ch168167.m3u8"
+    },
+    {
+      "num": 217,
+      "itemid": "台湾台",
+      "name": "靖天資訊台",
+      "urllist": "http://211.22.61.109/stc/ch168157.m3u8"
+    },
+    {
+      "num": 218,
+      "itemid": "台湾台",
+      "name": "靖天育樂台",
+      "urllist": "http://211.22.61.109/stc/ch168165.m3u8"
+    },
+    {
+      "num": 219,
+      "itemid": "台湾台",
+      "name": "靖天育樂台",
+      "urllist": "http://211.22.61.109/stc/ch168155.m3u8"
+    },
+    {
+      "num": 220,
+      "itemid": "台湾台",
+      "name": "靖天卡通台",
+      "urllist": "http://211.22.61.109/stc/ch168154.m3u8"
+    },
+    {
+      "num": 221,
+      "itemid": "台湾台",
+      "name": "日舞电影",
+      "urllist": "http://211.22.61.165/std/1.m3u8"
+    },
+    {
+      "num": 222,
+      "itemid": "港台P2P",
+      "name": "TVB翡翠原版",
+      "urllist": "p2p://96.44.141.58:6038/57a45faf00050d0be64a78b261db3eda"
+    },
+    {
+      "num": 223,
+      "itemid": "港台P2P",
+      "name": "TVB翡翠原版",
+      "urllist": "p2p://96.44.141.58:6038/57a46161000000b5e65116b547880cd4"
+    },
+    {
+      "num": 224,
+      "itemid": "港台P2P",
+      "name": "TVBJ2原版",
+      "urllist": "p2p://96.44.141.58:6038/57a45f68000a1d6fe64964a5353a32aa"
+    },
+    {
+      "num": 225,
+      "itemid": "港台P2P",
+      "name": "TVBJ5原版",
+      "urllist": "p2p://96.44.141.58:6038/57a46017000b1582e64c107e6b7456f5"
+    },
+    {
+      "num": 226,
+      "itemid": "港台P2P",
+      "name": "TVB明珠原版",
+      "urllist": "p2p://96.44.141.58:6038/57a46076000cdffae64d84086d2d1c1a"
+    },
+    {
+      "num": 227,
+      "itemid": "港台P2P",
+      "name": "TVB互动新闻原版",
+      "urllist": "p2p://96.44.141.58:6038/57a460bc00088ca4e64e945c40144d18"
+    },
+    {
+      "num": 228,
+      "itemid": "港台P2P",
+      "name": "VIUTV原版",
+      "urllist": "p2p://96.44.141.58:6038/57a461070007ac28e64fb91b6e3036e4"
+    },
+    {
+      "num": 229,
+      "itemid": "港台P2P",
+      "name": "ANIMAX日本原版动漫",
+      "urllist": "p2p://96.44.141.58:6038/57bdda7f0004431c49d10b6a5a571b5d"
+    },
+    {
+      "num": 230,
+      "itemid": "港台P2P",
+      "name": "TVB星河",
+      "urllist": "p2p://96.44.141.58:6038/57a44f360008bfe2e60a20f07a621591"
+    },
+    {
+      "num": 231,
+      "itemid": "港台P2P",
+      "name": "嘉丽",
+      "urllist": "p2p://96.44.141.58:6038/57a7dd1c000b5e42f3ec090642613d34"
+    },
+    {
+      "num": 232,
+      "itemid": "港台P2P",
+      "name": "ASTRO小太阳",
+      "urllist": "p2p://96.44.141.58:6038/57a7dbfc00068dcef3e7a2d507632697"
+    },
+    {
+      "num": 233,
+      "itemid": "港台P2P",
+      "name": "凤凰卫视中文HD",
+      "urllist": "p2p://96.44.141.58:6038/57a7dcd20001af9ff3eae58019ce4e6b"
+    },
+    {
+      "num": 234,
+      "itemid": "港台P2P",
+      "name": "凤凰卫视资讯HD",
+      "urllist": "p2p://96.44.141.58:6038/57a7dc94000c775bf3e9f613029d2674"
+    },
+    {
+      "num": 235,
+      "itemid": "港台P2P",
+      "name": "凤凰卫视香港HD",
+      "urllist": "p2p://96.44.141.58:6038/57a7dc56000970b6f3e9031d26df588a"
+    },
+    {
+      "num": 236,
+      "itemid": "港台P2P",
+      "name": "星空卫视",
+      "urllist": "p2p://96.44.141.58:6038/56f8c5ee000476112cea970e23596ce7"
+    },
+    {
+      "num": 237,
+      "itemid": "港台P2P",
+      "name": "TVB经典",
+      "urllist": "p2p://96.44.141.58:6038/57a44ed2000eff34e6089be95b0e5c3e"
+    },
+    {
+      "num": 238,
+      "itemid": "港台P2P",
+      "name": "TVB娱乐新闻",
+      "urllist": "p2p://96.44.141.58:6038/57a44fc40000c38be60c499638fa10d5"
+    },
+    {
+      "num": 239,
+      "itemid": "港台P2P",
+      "name": "TVBS亚洲",
+      "urllist": "p2p://96.44.141.58:6038/56f8cb37000788c82cff3cfd0fb7603f"
+    },
+    {
+      "num": 240,
+      "itemid": "港台P2P",
+      "name": "中天亚洲",
+      "urllist": "p2p://96.44.141.58:6038/57ad5fc300098816097264ec31ce7db2"
+    },
+    {
+      "num": 241,
+      "itemid": "港台P2P",
+      "name": "卫视中文",
+      "urllist": "p2p://96.44.141.58:6038/56f8cba2000284052d00ddaf0d0d3e02"
+    },
+    {
+      "num": 242,
+      "itemid": "港台P2P",
+      "name": "中视HD",
+      "urllist": "p2p://96.44.141.58:6038/57ad6b77000518b709a01ae35cd025af"
+    },
+    {
+      "num": 243,
+      "itemid": "港台P2P",
+      "name": "台视HD",
+      "urllist": "p2p://96.44.141.58:6038/57ad6bd1000e395d09a17cd159ce3c4e"
+    },
+    {
+      "num": 244,
+      "itemid": "港台P2P",
+      "name": "华视HD",
+      "urllist": "p2p://96.44.141.58:6038/57ad6a0a00094f62099a8a3960096c4d"
+    },
+    {
+      "num": 245,
+      "itemid": "港台P2P",
+      "name": "公视3HD",
+      "urllist": "p2p://96.44.141.58:6038/57ad6c2c0007835109a2de8f61ae0485"
+    },
+    {
+      "num": 246,
+      "itemid": "港台P2P",
+      "name": "民视HD",
+      "urllist": "p2p://96.44.141.58:6038/57ad6c7b0006644309a412d806904ff9"
+    },
+    {
+      "num": 247,
+      "itemid": "港台P2P",
+      "name": "民视四季HD",
+      "urllist": "p2p://96.44.141.58:6038/57ad69a2000f3b4c0998f579094b3645"
+    },
+    {
+      "num": 248,
+      "itemid": "港台P2P",
+      "name": "中天亚洲",
+      "urllist": "p2p://96.44.141.58:6038/57ad5fc300098816097264ec31ce7db2"
+    },
+    {
+      "num": 249,
+      "itemid": "港台P2P",
+      "name": "新加坡7",
+      "urllist": "p2p://96.44.141.58:6038/57a7d67000021b24f3d1f6cd3d9b2f29"
+    },
+    {
+      "num": 250,
+      "itemid": "港台P2P",
+      "name": "新加坡8HD",
+      "urllist": "p2p://96.44.141.58:6038/57a410350007773ce51404b5308a28cf"
+    },
+    {
+      "num": 251,
+      "itemid": "港台P2P",
+      "name": "新加坡U",
+      "urllist": "p2p://96.44.141.58:6038/57a40ff100077535e512fb147bf36e75"
+    },
+    {
+      "num": 252,
+      "itemid": "港台P2P",
+      "name": "8TV",
+      "urllist": "p2p://96.44.141.58:6038/57a7d62100021cf1f3d0c2376f38151a"
+    },
+    {
+      "num": 253,
+      "itemid": "港台P2P",
+      "name": "台视HD",
+      "urllist": "p2p://207.238.82.38:9916/51aea8370002dc6ce83e43c11c6234f6"
+    },
+    {
+      "num": 254,
+      "itemid": "港台P2P",
+      "name": "华视美洲",
+      "urllist": "p2p://207.238.82.38:9916/51b97ba8000c65d41bbedb4c56ad01b3"
+    },
+    {
+      "num": 255,
+      "itemid": "港台P2P",
+      "name": "超视美洲",
+      "urllist": "p2p://207.238.82.30:9916/5491b3af0008583b3856eb5f21b01e28"
+    },
+    {
+      "num": 256,
+      "itemid": "港台P2P",
+      "name": "东森美洲",
+      "urllist": "p2p://207.238.82.30:9916/5491b41b000989683858918d716a4d69"
+    },
+    {
+      "num": 257,
+      "itemid": "港台P2P",
+      "name": "东森新闻美洲",
+      "urllist": "p2p://207.238.82.30:9916/5491b3fb000e4e1c385815c549cc7aaf"
+    },
+    {
+      "num": 258,
+      "itemid": "港台P2P",
+      "name": "纬来美洲",
+      "urllist": "p2p://207.238.82.38:9916/51b97c6400040d991bc1b78963077f1b"
+    },
+    {
+      "num": 259,
+      "itemid": "港台P2P",
+      "name": "民视美洲",
+      "urllist": "p2p://207.238.82.38:9916/51aea8a600029f63e83ff5493b03319a"
+    },
+    {
+      "num": 260,
+      "itemid": "港台P2P",
+      "name": "宏观卫视",
+      "urllist": "p2p://207.238.82.38:9916/51aea95e000af79ee842c62c7eeb7792"
+    },
+    {
+      "num": 261,
+      "itemid": "港台P2P",
+      "name": "国际卫视",
+      "urllist": "p2p://207.238.82.30:9916/51492929000d97015bc5f7d03d0a222f"
+    },
+    {
+      "num": 262,
+      "itemid": "港台P2P",
+      "name": "国际卫视",
+      "urllist": "p2p://207.238.82.30:9916/51492960000989685bc6cd9e6bbe6b7e"
+    },
+    {
+      "num": 263,
+      "itemid": "港台P2P",
+      "name": "美国中文电视",
+      "urllist": "p2p://207.238.82.30:9916/51d51ec90000b71b87b411362c5d24cd"
+    },
+    {
+      "num": 264,
+      "itemid": "港台P2P",
+      "name": "美国国语英文电视",
+      "urllist": "p2p://207.238.82.38:9916/51d51ef70005f5e187b4c63e7c816536"
+    },
+    {
+      "num": 265,
+      "itemid": "港台P2P",
+      "name": "美国国语英文电视",
+      "urllist": "p2p://207.238.82.38:9926/51d51ef70005f5e187b4c63e7c816536"
+    }
+  ],
+  "type": [
+    {
+      "id": "香港台",
+      "name": "1.香港台"
+    },
+    {
+      "id": "台湾台",
+      "name": "2.台湾台"
+    },
+    {
+      "id": "港台P2P",
+      "name": "3.港台P2P"
+    }
+  ]
+}

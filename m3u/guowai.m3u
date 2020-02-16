@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1,XXX: Hot Club 7 HD
+http://izgemma.ddns.net:8000/live/shaun/shaun/193.ts
+#EXTINF:-1,XXX: Hot Club1 HD
+http://izgemma.ddns.net:8000/live/shaun/shaun/199.ts
+#EXTINF:-1,XXX: Hot Club6 HD
+http://izgemma.ddns.net:8000/live/shaun/shaun/200.ts
+#EXTINF:-1,XXX: SCT
+http://izgemma.ddns.net:8000/live/shaun/shaun/169.ts
+#EXTINF:-1,XXX: HOT 1
+http://izgemma.ddns.net:8000/live/shaun/shaun/13448.ts
+#EXTINF:-1,XXX: HOT 4
+http://izgemma.ddns.net:8000/live/shaun/shaun/13451.ts
+#EXTINF:-1,XXX: HOT 6
+http://izgemma.ddns.net:8000/live/shaun/shaun/13453.ts
+#EXTINF:-1,XXX: HOT 7
+http://izgemma.ddns.net:8000/live/shaun/shaun/13454.ts
+#EXTINF:-1,xxx: HOT 8
+http://izgemma.ddns.net:8000/live/shaun/shaun/13455.ts
+#EXTINF:-1,asia TV
+http://61.58.60.230:9000/live/207.m3u8
+#EXTINF:-1,nice bingo
+http://61.58.60.230:9000/live/206.m3u8
+#EXTINF:-1,101
+http://61.58.60.230:9000/live/101.m3u8
+#EXTINF:-1,102
+http://61.58.60.230:9000/live/102.m3u8
+#EXTINF:-1,201
+http://61.58.60.230:9000/live/201.m3u8
+#EXTINF:-1,203
+http://61.58.60.230:9000/live/203.m3u8
+#EXTINF:-1,202
+http://61.58.60.230:9000/live/202.m3u8
+#EXTINF:-1,204
+http://61.58.60.230:9000/live/204.m3u8
+#EXTINF:-1,205
+http://61.58.60.230:9000/live/205.m3u8
