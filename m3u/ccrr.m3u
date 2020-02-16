@@ -1,0 +1,1111 @@
+#EXTM3U
+#EXTINF:-1 group-title="未分组",一本道
+p2p://61.221.233.81:9000/5606c63300026a49018645fc4fa242c1.ts
+#EXTINF:-1 group-title="",二本道
+p2p://61.221.233.81:9000/5606c65c000c89a00186e8c049b37400.ts
+#EXTINF:-1 group-title="",三本道
+p2p://61.221.233.81:9000/5606c67a000d28af01875e1e0b5433e7.ts
+#EXTINF:-1 group-title="",四本道
+p2p://61.221.233.81:9000/5606c69700081a4e0187ce1f04ae551d.ts
+#EXTINF:-1 group-title="",五本道
+p2p://61.221.233.81:9000/5606c72a000898e8018a0c7678d7492c.ts
+#EXTINF:-1 group-title="",六本道
+p2p://61.221.233.81:9000/5606c74500073f5b018a759425c52547.ts
+#EXTINF:-1 group-title="",七本道
+p2p://61.221.233.81:9000/5606c76c00078a7b018b0dfc5ae42139.ts
+#EXTINF:-1 group-title="",九本道
+p2p://61.221.233.81:9000/5606c787000221cf018b761109756be3.ts
+#EXTINF:-1 group-title="",新韩源1
+http://edge2.everyon.tv/etv2/phd1003/BratuMarian.m3u8#rtmp://edge2.everyon.tv/etv2/phd1003#rtmp://edge2.everyon.tv:1935/etv2/phd1003
+#EXTINF:-1 group-title="",新韩源2
+http://edge2.everyon.tv/etv2/phd1005/BratuMarian.m3u8#rtmp://edge2.everyon.tv:1935/etv2/phd1005#rtmp://edge2.everyon.tv/etv2/phd1005
+#EXTINF:-1 group-title="",新韩源3
+rtmp://edge2.everyon.tv:1935/etv2/phd1008#rtmp://edge2.everyon.tv/etv2/phd1008
+#EXTINF:-1 group-title="",频道_17松视1HD，
+rtmp://kv3.ts33.net/tv/ttv11
+#EXTINF:-1 group-title="",松视2有码
+rtmp://kv3.ts33.net/tv/ttv12#rtmp://149.3.141.210:1935/tv/ttv12
+#EXTINF:-1 group-title="",韩国
+http://cr.stream.omc.hk/etv2/phd1003/playlist.m3u8#http://cr.stream.omc.hk/etv2/phd1006/playlist.m3u8#http://cr.stream.omc.hk/etv2/phd1005/playlist.m3u8#http://cr.stream.omc.hk/etv2/phd1008/playlist.m3u8
+#EXTINF:-1 group-title="",x1
+http://208.122.3.2:8550#http://208.122.3.2:8550
+#EXTINF:-1 group-title="",x2
+mmsh://tv.webmisto.cz:7000#mmsh://tv.webmisto.cz:7000cr2
+#EXTINF:-1 group-title="",x3
+http://208.122.3.2:9000#http://208.122.3.2:9000
+#EXTINF:-1 group-title="",x4
+http://208.122.3.2:8700#http://208.122.3.2:8700
+#EXTINF:-1 group-title="",日本妞优
+rtsp://u.itvitv.com/jpm1
+#EXTINF:-1 group-title="",日本01
+http://59.120.43.181:8081/
+#EXTINF:-1 group-title="",日本03
+http://59.120.43.181:8083/
+#EXTINF:-1 group-title="",日本无码1
+http://199.195.195.108:32001
+#EXTINF:-1 group-title="",日本无码3
+http://199.195.195.108:32003
+#EXTINF:-1 group-title="",Korea Ask TV
+http://edge2.everyon.tv/etv2/phd1005/BratuMarian.m3u8#rtmp://edge2.everyon.tv/etv2/phd1005
+#EXTINF:-1 group-title="",卡塔尔半岛纪录
+rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live/aljazeera_doc_high
+#EXTINF:-1 group-title="",花花公子韩国1
+rtmp://123.108.164.71/etv2sb//pld769#rtmp://123.108.164.71/etv2sb//pld769
+#EXTINF:-1 group-title="",MidnitTVCR台
+rtmp://123.108.164.71/etv2sb//pld991#rtmp://123.108.164.71/etv2sb//pld991
+#EXTINF:-1 group-title="",Honey 18+ HD韩国
+rtmp://123.108.164.71/etv2sb//pld771#rtmp://123.108.164.71/etv2sb//pld771
+#EXTINF:-1 group-title="",彩虹电影Hot MoviesTV 18+
+rtmp://edge2.everyon.tv/etv2//pld1008
+#EXTINF:-1 group-title="",松视1台
+rtmp://149.3.141.210:1935/tv/ttv11
+#EXTINF:-1 group-title="",成人21台
+http://59.120.43.181:8082
+#EXTINF:-1 group-title="",成人23台
+http://59.120.43.181:8084
+#EXTINF:-1 group-title="",10012
+rtmp://edge2.everyon.tv/etv2/phd511
+#EXTINF:-1 group-title="",10013
+rtmp://edge2.everyon.tv/etv2/phd1006海外CBNTVmmsh://live1.cbn.org/iptv1
+#EXTINF:-1 group-title="",Korea Livething Premium
+http://edge2.everyon.tv/etv2/phd1006/BratuMarian.m3u8
+#EXTINF:-1 group-title="",Korea Paradise TV
+http://edge2.everyon.tv/etv2/pld1008/BratuMarian.m3u8
+#EXTINF:-1 group-title="",Olala
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
+#EXTINF:-1 group-title="",Russian Night
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANNIGHT/variant.m3u8?version=2
+#EXTINF:-1 group-title="",VOVTV
+http://hlscache.fptplay.net.vn/livez/smil:vovtv_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="",VPopVN
+http://206.190.140.142/liveStream/vpoptv_1/chunklist_w2139601650.m3u8
+#EXTINF:-1 group-title="",VPopVN
+http://83.170.111.147:1935/liveStream/vpoptv_1/chunklist_w1149148728.m3u8
+#EXTINF:-1 group-title="",VPTV
+http://206.190.140.142/liveStream/vpoptv_1/chunklist_w109987798.m3u8
+#EXTINF:-1 group-title="",VTC1
+http://113.160.49.34/lives/origin01/vtc1sd.isml/vtc1sd-1096k.m3u8
+#EXTINF:-1 group-title="",VTC2
+http://113.160.49.34/lives/origin01/vtc2sd.isml/vtc2sd-1096k.m3u8
+#EXTINF:-1 group-title="",VTC3
+http://113.160.49.34/lives/origin01/vtc3sd.isml/vtc3sd-1096k.m3u8
+#EXTINF:-1 group-title="",VTC4
+http://113.160.49.34/lives/origin01/vtc4sd.isml/vtc4sd-1096k.m3u8
+#EXTINF:-1 group-title="",VTC5
+http://113.160.49.34/lives/origin01/vtc5sd.isml/vtc5sd-1096k.m3u8
+#EXTINF:-1 group-title="",VTC6
+http://113.160.49.34/lives/origin01/vtc6sd.isml/vtc6sd-1096k.m3u8
+#EXTINF:-1 group-title="",VTC7
+http://113.160.49.34/lives/origin01/vtc7sd.isml/vtc7sd-1096k.m3u8
+#EXTINF:-1 group-title="",VTC(VIEW)8
+http://113.160.49.34/lives/origin01/vtc8sd.isml/vtc8sd-1096k.m3u8
+#EXTINF:-1 group-title="",VTC9
+http://113.160.49.34/lives/origin01/vtc9sd.isml/vtc9sd-1096k.m3u8
+#EXTINF:-1 group-title="",VTC10
+http://113.160.49.34/lives/origin01/vtc10sd.isml/vtc10sd-1096k.m3u8
+#EXTINF:-1 group-title="",VTC11
+http://113.160.49.34/lives/origin01/vtc11sd.isml/vtc11sd-1096k.m3u8
+#EXTINF:-1 group-title="",VTC12
+http://113.160.49.34/lives/origin01/vtc12sd.isml/vtc12sd-1096k.m3u8
+#EXTINF:-1 group-title="",VTC13
+http://113.160.49.34/lives/origin01/vtc13sd.isml/vtc13sd-1096k.m3u8
+#EXTINF:-1 group-title="",VTC14
+http://113.160.49.34/lives/origin01/vtc14sd.isml/vtc14sd-1096k.m3u8
+#EXTINF:-1 group-title="",欧美1
+http://199.195.195.108:32005
+#EXTINF:-1 group-title="",欧美2
+http://199.195.195.108:32006
+#EXTINF:-1 group-title="",1台
+http://edge2.everyon.tv/etv2sb/pld59/HasBahCa.m3u8
+#EXTINF:-1 group-title="",2台
+http://edge2.everyon.tv/etv2sb/pld60/HasBahCa.m3u8
+#EXTINF:-1 group-title="",3台
+http://edge2.everyon.tv/etv2sb/pld61/HasBahCa.m3u8
+#EXTINF:-1 group-title="",4台
+http://edge2.everyon.tv/etv2sb/pld62/HasBahCa.m3u8
+#EXTINF:-1 group-title="",8台
+http://edge2.everyon.tv/etv2sb/pld499/HasBahCa.m3u8
+#EXTINF:-1 group-title="",10台
+http://edge2.everyon.tv/etv2sb/pld511/HasBahCa.m3u8
+#EXTINF:-1 group-title="",13台
+http://edge2.everyon.tv/etv2sb/pld769/HasBahCa.m3u8
+#EXTINF:-1 group-title="",韓國3頻道
+rtmp://edge2.everyon.tv/etv2sb/phd60#http://cr.stream.omc.hk/etv2sb/phd60/chunklist_w1170594935.m3u8
+#EXTINF:-1 group-title="",韓國7頻道
+rtmp://edge2.everyon.tv/etv2sb/phd64#http://cr.stream.omc.hk/etv2sb/phd64/playlist.m3u8
+#EXTINF:-1 group-title="",o?(m3u8)-hotgirl-59
+http://edge2.everyon.tv/etv2sb/phd59/playlist.m3u8
+#EXTINF:-1 group-title="",o?(m3u8)-992
+http://edge2.everyon.tv/etv2sb/phd992/playlist.m3u8
+#EXTINF:-1 group-title="",120
+http://img5.younggirlstube.com/scj/thumbs/galleries/7/123/0_833.flv
+#EXTINF:-1 group-title="",x3
+http://208.122.3.2:9000
+#EXTINF:-1 group-title="",x4
+http://208.122.3.2:8700
+#EXTINF:-1 group-title="",樱花台
+rtmp://111.118.21.77:1935/ptv3/phd61
+#EXTINF:-1 group-title="",松视TV
+rtmp://59.124.220.46:554/live/tv1.stream
+#EXTINF:-1 group-title="",韩国综合频道1
+rtmp://lm02.everyon.tv/ptv2/phd765
+#EXTINF:-1 group-title="",韩国综合频道4
+rtmp://lm03.everyon.tv/ptv3/phd771
+#EXTINF:-1 group-title="",韩国综合频道5
+rtmp://lm03.everyon.tv/ptv3/phd769
+#EXTINF:-1 group-title="",韩国综合频道6
+rtmp://lm03.everyon.tv/ptv3/phd499
+#EXTINF:-1 group-title="",韩版TV-CHOSUN
+http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
+#EXTINF:-1 group-title="",海外 CBNTV
+mmsh://live1.cbn.org/iptv1
+#EXTINF:-1 group-title="",海外 LCNTV
+rtmp://cp39414.live.edgefcs.net/live/argent@9751
+#EXTINF:-1 group-title="",海外 朝鲜日报
+rtmp://live.chosun.gscdn.com/live//tvchosun1.stream
+#EXTINF:-1 group-title="",韩国CGNTV中文台
+rtmp://1.234.77.36:1935/cgntv_ch/phone_ch
+#EXTINF:-1 group-title="",韩国CBS
+rtmp://cbs-live.gscdn.com/cbs-live/cbs-live.stream
+#EXTINF:-1 group-title="",韩国CTS
+rtmp://ctsnanum.rtsp.vercoop.com:1935/CTS/CTS_34312_100.sdp
+#EXTINF:-1 group-title="",体育-澳视体育
+rtmp://live2.tdm.com.mo:80/tv/ch4.live
+#EXTINF:-1 group-title="",体育-澳视体育
+rtmp://live3.tdm.com.mo:1935/tv/ch4.live
+#EXTINF:-1 group-title="",韩版KTV-HD
+rtmp://218.38.152.31:1935/klive/klive.stream
+#EXTINF:-1 group-title="",日本台8
+rtsp://c.itvitv.com/wowow.ghfyenxdhfdscz
+#EXTINF:-1 group-title="",日本1
+http://59.120.43.181:8081
+#EXTINF:-1 group-title="",日本3
+http://59.120.43.181:8083
+#EXTINF:-1 group-title="",韩国成人高清1台
+http://edge2.everyon.tv/etv2sb/phd59/HasBahCa.m3u8
+#EXTINF:-1 group-title="",韩国成人高清2台
+http://edge2.everyon.tv/etv2sb/phd60/HasBahCa.m3u8
+#EXTINF:-1 group-title="",韩国成人高清3台
+http://edge2.everyon.tv/etv2sb/phd61/HasBahCa.m3u8
+#EXTINF:-1 group-title="",韩国成人高清4台
+http://edge2.everyon.tv/etv2sb/phd62/HasBahCa.m3u8
+#EXTINF:-1 group-title="",韩国成人高清5台
+http://edge2.everyon.tv/etv2sb/phd63/HasBahCa.m3u8
+#EXTINF:-1 group-title="",韩国成人高清6台
+http://edge2.everyon.tv/etv2sb/phd64/HasBahCa.m3u8
+#EXTINF:-1 group-title="",韩国成人高清7台
+http://edge1.everyon.tv/etv1sb/phd497/HasBahCa.m3u8
+#EXTINF:-1 group-title="",韩国成人高清8台
+http://edge2.everyon.tv/etv2sb/phd499/HasBahCa.m3u8
+#EXTINF:-1 group-title="",韩国成人高清9台
+http://edge2.everyon.tv/etv2sb/phd501/HasBahCa.m3u8
+#EXTINF:-1 group-title="",韩国成人高清10台
+http://edge2.everyon.tv/etv2sb/phd511/HasBahCa.m3u8
+#EXTINF:-1 group-title="",韩国成人高清11台
+http://edge1.everyon.tv/etv1sb/phd765/HasBahCa.m3u8
+#EXTINF:-1 group-title="",韩国成人高清12台
+http://edge1.everyon.tv/etv1sb/phd766/HasBahCa.m3u8
+#EXTINF:-1 group-title="",韩国成人高清13台
+http://edge2.everyon.tv/etv2sb/phd769/HasBahCa.m3u8
+#EXTINF:-1 group-title="",韩国成人高清14台
+http://edge2.everyon.tv/etv2sb/phd771/HasBahCa.m3u8
+#EXTINF:-1 group-title="",韩国成人高清15台
+http://edge2.everyon.tv/etv2sb/phd772/HasBahCa.m3u8
+#EXTINF:-1 group-title="",韩国成人高清16台
+http://edge1.everyon.tv/etv1sb/phd927/HasBahCa.m3u8
+#EXTINF:-1 group-title="",韩国成人高清17台
+http://edge1.everyon.tv/etv1sb/phd928/HasBahCa.m3u8
+#EXTINF:-1 group-title="",韩国成人高清18台
+http://edge2.everyon.tv/etv2sb/phd968/HasBahCa.m3u8
+#EXTINF:-1 group-title="",韩国成人高清19台
+http://edge2.everyon.tv/etv2sb/phd991/HasBahCa.m3u8
+#EXTINF:-1 group-title="",韩国成人高清20台
+http://edge2.everyon.tv/etv2sb/phd992/HasBahCa.m3u8
+#EXTINF:-1 group-title="",韩国成人高清21台
+http://edge2.everyon.tv/etv2sb/phd993/HasBahCa.m3u8
+#EXTINF:-1 group-title="",韩国成人高清22台
+http://edge2.everyon.tv/etv2/phd1003/HasBahCa.m3u8
+#EXTINF:-1 group-title="",韩国成人高清23台
+http://edge2.everyon.tv/etv2/phd1005/HasBahCa.m3u8
+#EXTINF:-1 group-title="",韩国成人高清24台
+http://edge2.everyon.tv/etv2/phd1006/HasBahCa.m3u8
+#EXTINF:-1 group-title="",韩国成人高清25台
+http://edge2.everyon.tv/etv2/phd1008/HasBahCa.m3u8
+#EXTINF:-1 group-title="",Fashion
+http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="",tara音乐
+rtmp://lxrtmp.load.cdn.zhanqi.tv/zqlive/1285_Zloy4
+#EXTINF:-1 group-title="",龙翔电影
+rtsp://c.itvitv.com/ls.sdtwsatxbaw
+#EXTINF:-1 group-title="",欧洲模特
+rtsp://c.itvitv.com/model.fjstkjbsqa
+#EXTINF:-1 group-title="",欧美音乐
+rtsp://c.itvitv.com/6mtv.sexy.gtwinhtfbdf
+#EXTINF:-1 group-title="",欧美**1
+rtmp://live190.la3.origin.filmon.com:1935/live/244.high.stream
+#EXTINF:-1 group-title="",欧美**2
+rtmp://live190.la3.origin.filmon.com:1935/live/198.high.stream3
+#EXTINF:-1 group-title="",欧美**3
+rtmp://live190.la3.origin.filmon.com:1935/live/245.high.stream
+#EXTINF:-1 group-title="",欧美**4
+rtmp://live190.la3.origin.filmon.com:1935/live/246.high.stream
+#EXTINF:-1 group-title="",欧美**5
+rtmp://live190.la3.origin.filmon.com:1935/live/247.high.stream
+#EXTINF:-1 group-title="",欧美**6Gay
+rtmp://live190.la3.origin.filmon.com:1935/live/73.high.strea
+#EXTINF:-1 group-title="",韩国*1台
+rtsp://lm02.everyon.tv:1935/ptv2/phd501%
+#EXTINF:-1 group-title="",韩国*2台
+rtsp://lm02.everyon.tv:1935/ptv/phd63
+#EXTINF:-1 group-title="",新增韓國路线TV1
+rtmp://lm07.everyon.tv:1935/ptv7/phd1005
+#EXTINF:-1 group-title="",新增韩国路线TV2
+rtmp://lm07.everyon.tv:1935/ptv7/phd1006
+#EXTINF:-1 group-title="",新增韩国路线TV3
+rtmp://lm07.everyon.tv:1935/ptv7/phd1008
+#EXTINF:-1 group-title="",新增韩国路线TV4
+rtmp://lm07.everyon.tv:1935/ptv7/phd1003
+#EXTINF:-1 group-title="",Delight EnpireTV 韩国HD
+rtmp://lm07.everyon.tv:1935/ptv7/phd63
+#EXTINF:-1 group-title="",兔子台韓國HD
+rtmp://lm07.everyon.tv:1935/ptv7/phd10497
+#EXTINF:-1 group-title="",樱花台 韩国
+rtmp://lm07.everyon.tv:1935/ptv7/phd61
+#EXTINF:-1 group-title="",PlayyTV19+ 韩国
+rtmp://lm07.everyon.tv:1935/ptv7/phd769
+#EXTINF:-1 group-title="",Hot Movies HD 韩国
+rtmp://lm07.everyon.tv:1935/ptv7/phd511
+#EXTINF:-1 group-title="",J Hot GirlTV 韩国
+rtmp://lm07.everyon.tv:1935/ptv7/phd59
+#EXTINF:-1 group-title="",LivetingTV 韩国
+rtmp://lm07.everyon.tv:1935/ptv7/phd64
+#EXTINF:-1 group-title="",OnTV 韩国
+rtmp://lm07.everyon.tv:1935/ptv7/phd60
+#EXTINF:-1 group-title="",TheohTV 韩国
+rtmp://lm07.everyon.tv:1935/ptv7/phd771
+#EXTINF:-1 group-title="",ButGO TV韩国
+rtmp://lm07.everyon.tv:1935/ptv7/phd772
+#EXTINF:-1 group-title="",Girls TV韩国
+rtmp://lm07.everyon.tv:1935/ptv7/phd501
+#EXTINF:-1 group-title="",台湾CR电视台PlayboyTV 18+
+rtmp://edge2.everyon.tv/etv2//pld1005
+#EXTINF:-1 group-title="",彩虹电视台HDXXX TV18++
+rtmp://123.108.164.71/etv2sb//pld501
+#EXTINF:-1 group-title="",彩虹e频道Playy19+TV 18+
+rtmp://edge2.everyon.tv/etv2//pld1006
+#EXTINF:-1 group-title="",彩虹KJ Hot GirlTV 18+
+rtmp://123.108.164.71/etv2sb//pld59
+#EXTINF:-1 group-title="",彩虹E台penthouse Asia 18+
+rtmp://123.108.164.71/etv2sb//pld63
+#EXTINF:-1 group-title="",台湾彩虹台LivetingTV 18+
+rtmp://123.108.164.71/etv2sb//pld60
+#EXTINF:-1 group-title="",松视三台ButGOTV 18+
+rtmp://123.108.164.71/etv2sb//pld62
+#EXTINF:-1 group-title="",松视TV MidnihtTV 18+
+rtmp://123.108.164.71/etv2sb//pld499
+#EXTINF:-1 group-title="",松视四台PinkTV 18+
+rtmp://123.108.164.71/etv2sb//pld61
+#EXTINF:-1 group-title="",松视二台VikiTV 18+
+rtmp://123.108.164.71/etv2sb//pld64
+#EXTINF:-1 group-title="",花花公子韩国1
+rtmp://123.108.164.71/etv2sb//pld769
+#EXTINF:-1 group-title="",花花公子韩国2
+rtmp://123.108.164.71/etv2//pld1006
+#EXTINF:-1 group-title="",pboy TV
+rtmp://123.108.164.71/etv2sb//pld992
+#EXTINF:-1 group-title="",private SpiceTV
+rtmp://123.108.164.71/etv2//pld1005
+#EXTINF:-1 group-title="",PinkTVCR台
+rtmp://123.108.164.71/etv2sb//pld993
+#EXTINF:-1 group-title="",J Hot GirlTV
+rtmp://123.108.164.71/etv2//pld1008
+#EXTINF:-1 group-title="",LivetingTVCR台
+rtmp://123.108.164.71/etv2sb//pld772
+#EXTINF:-1 group-title="",MidnitTVCR台
+rtmp://123.108.164.71/etv2sb//pld991
+#EXTINF:-1 group-title="",Honey 18+ HD韩国
+rtmp://123.108.164.71/etv2sb//pld771
+#EXTINF:-1 group-title="",TheohTV 韩国
+rtmp://123.108.164.71/etv2sb//phd61
+#EXTINF:-1 group-title="",ButGO TV
+rtmp://123.108.164.71/etv2sb//pld968
+#EXTINF:-1 group-title="",Brasileirinhas TV18++
+rtmp://123.108.164.71/etv2sb//pld511
+#EXTINF:-1 group-title="",H3
+http://cr.stream.omc.hk/etv2sb/phd61/playlist.m3u8
+#EXTINF:-1 group-title="",19
+http://cr.stream.omc.hk/etv2sb/phd968/playlist.m3u8
+#EXTINF:-1 group-title="",21
+http://cr.stream.omc.hk/etv2sb/phd992/playlist.m3u8
+#EXTINF:-1 group-title="",25
+http://cr.stream.omc.hk/etv2/phd1006/playlist.m3u8
+#EXTINF:-1 group-title="",cr
+http://cr.stream.omc.hk/etv2sb/pld63/playlist.m3u8
+#EXTINF:-1 group-title="",cr
+http://cr.stream.omc.hk/etv2sb/pld511/playlist.m3u8
+#EXTINF:-1 group-title="",cr
+http://cr.stream.omc.hk/etv2sb/pld769/playlist.m3u8
+#EXTINF:-1 group-title="",cr
+http://cr.stream.omc.hk/etv2sb/pld772/playlist.m3u8
+#EXTINF:-1 group-title="",cr
+http://cr.stream.omc.hk/etv2sb/pld968/playlist.m3u8
+#EXTINF:-1 group-title="",cr
+http://cr.stream.omc.hk/etv2sb/pld991/playlist.m3u8
+#EXTINF:-1 group-title="",cr
+http://cr.stream.omc.hk/etv2/pld1003/playlist.m3u8
+#EXTINF:-1 group-title="",cr
+http://cr.stream.omc.hk/etv2/pld1006/playlist.m3u8
+#EXTINF:-1 group-title="",cr
+http://cr.stream.omc.hk/etv2/pld1008/playlist.m3u8
+#EXTINF:-1 group-title="",cr
+http://cr.stream.omc.hk/etv2sb/phd59/playlist.m3u8
+#EXTINF:-1 group-title="",cr
+http://cr.stream.omc.hk/etv2sb/phd63/playlist.m3u8
+#EXTINF:-1 group-title="",cr
+http://cr.stream.omc.hk/etv2sb/phd769/playlist.m3u8
+#EXTINF:-1 group-title="",cr
+http://cr.stream.omc.hk/etv2sb/phd64/playlist.m3u8
+#EXTINF:-1 group-title="",20
+http://hls.novotelecom.ru/streaming/forkids/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="",78
+http://hls.novotelecom.ru/streaming/zvezda/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="",arirang-enArirang
+http://worldlive-ios.arirang.co.kr/cdnlive-hls/arirangwlive/_definst_/liveevent/tvworld4.m3u8
+#EXTINF:-1 group-title="",arirang-enArirang１
+http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8
+#EXTINF:-1 group-title="",Kanal D HD -1280*720
+http://212.224.108.80/S1/HLS_LIVE/kanald/1500/prog_index.m3u8
+#EXTINF:-1 group-title="",Korea Okadai
+http://edge2.everyon.tv/etv2/pld1003/BratuMarian.m3u8
+#EXTINF:-1 group-title="",Korea Okadai HD
+http://edge2.everyon.tv/etv2/phd1003/BratuMarian.m3u8
+#EXTINF:-1 group-title="",福利台
+http://wshdl.load.cdn.zhanqi.tv/zqlive/15773_BDfrG.flv
+#EXTINF:-1 group-title="",午夜频道9
+http://cr.stream.omc.hk/etv2sb/phd501/playlist.m3u8
+#EXTINF:-1 group-title="",日韩CR电影
+http://59.120.43.181:8085
+#EXTINF:-1 group-title="",日韩CR电影
+http://59.120.43.181:8086
+#EXTINF:-1 group-title="",日韩CR电影
+http://59.120.43.181:8087
+#EXTINF:-1 group-title="",115
+http://82.76.249.77/digi24edge/digi24brasovlive/chunklist.m3u8
+#EXTINF:-1 group-title="",Bellaluz-UnitedStates
+http://46.249.213.87/iPhone/broadcast/bellaluz-iphone.3gp.m3u8
+#EXTINF:-1 group-title="",7
+http://openstat.net/cnt?cid=2324925&amp;p=8&amp;pg=http%3A%2F%2F24htv.ucoz.com%2Fcrtv
+#EXTINF:-1 group-title="",日本J-Sports2
+p2p://61.221.233.81:9000/5606d6c3000e380001c6fb861e246d6b
+#EXTINF:-1 group-title="",日本J-Sports3
+p2p://61.221.233.81:9000/5606d5d3000f331401c3524d15e46795
+#EXTINF:-1 group-title="",日本J-Sports4
+p2p://61.221.233.81:9000/5606d61c0006e2bc01c46d4c7448531b
+#EXTINF:-1 group-title="",日本J-GOLF
+p2p://61.221.233.81:9000/5606e673000a430f02044209623d24bb
+#EXTINF:-1 group-title="",日本テレビ东京
+p2p://61.221.233.81:9000/5606d1e1000475d301b3e6322240793c
+#EXTINF:-1 group-title="",日本フジテレビ
+p2p://61.221.233.81:9000/5606d214000d765201b4afb744bc09c9
+#EXTINF:-1 group-title="",日本TOKYO-MX
+p2p://61.221.233.81:9000/5606d24a0006e2fa01b580fa79a1146c
+#EXTINF:-1 group-title="",日本时代剧専门チャンネル
+p2p://61.221.233.81:9000/5606d91c0004c37301d024c839870982
+#EXTINF:-1 group-title="",日本旅游IAB
+p2p://61.221.233.81:9000/5606cec90004362601a7d0700b3648d2
+#EXTINF:-1 group-title="",日本直播1每日放送
+p2p://121.17.126.83:8906/532ac047000026efefe14dda1f1d2f95
+#EXTINF:-1 group-title="",日本直播2
+p2p://121.17.126.83:8906/532ac0470003b900efe14ec4559010b8
+#EXTINF:-1 group-title="",日本直播3
+p2p://121.17.126.83:8906/532ac02b0003740eefe0e15350e80239
+#EXTINF:-1 group-title="",日本直播4
+p2p://121.17.126.83:8906/532ac02b000cf990efe0e3c307eb6f05
+#EXTINF:-1 group-title="",日本直播5
+p2p://121.17.126.83:8906/532ac02c00046190efe0e578234e3ce9
+#EXTINF:-1 group-title="",日本直播6
+p2p://121.17.126.83:8906/532ac02b000b4effefe0e35602285af3
+#EXTINF:-1 group-title="",日本直播7
+p2p://121.17.126.83:8906/532ac03c0002ccfcefe12390765c1524
+#EXTINF:-1 group-title="",日本直播8
+p2p://121.17.126.83:8906/532ac02b0004e1afefe0e1b01ff274ca
+#EXTINF:-1 group-title="",日本直播9
+p2p://121.17.126.83:8906/532ac02b0009a46fefe0e2e83f507d1d
+#EXTINF:-1 group-title="",日本直播10
+p2p://121.17.126.83:8906/532ac046000dbe9fefe14d6d5f191b47
+#EXTINF:-1 group-title="",日本直播11
+p2p://121.17.126.83:8906/532ac0470001d17fefe14e4870a022b2
+#EXTINF:-1 group-title="",日本直播12
+p2p://121.17.126.83:8906/532ac03c000eb3deefe1269c04db3c79
+#EXTINF:-1 group-title="",日本直播13
+p2p://121.17.126.83:8906/532ac03d00011c2eefe127090edc436d
+#EXTINF:-1 group-title="",日本直播14
+p2p://121.17.126.83:8906/532ac03b000c58bcefe1221a41b42552
+#EXTINF:-1 group-title="",日本直播15
+p2p://121.17.126.83:8906/532ac02c000a5501efe0e6fe34684c8d
+#EXTINF:-1 group-title="",日本直播16
+p2p://121.17.126.83:8906/532ac02c0008aa71efe0e69060f66fe5
+#EXTINF:-1 group-title="",日本直播17
+p2p://121.17.126.83:8906/532ac03c0008837defe12506277b10b5
+#EXTINF:-1 group-title="",日本直播18
+p2p://121.17.126.83:8906/532ac02c0005cf30efe0e5d55e7724c7
+#EXTINF:-1 group-title="",日本直播19
+p2p://121.17.126.83:8906/532ac02b0007f9dfefe0e27b16443404
+#EXTINF:-1 group-title="",日本直播20
+p2p://121.17.126.83:8906/532ac046000bd71fefe14cf019a24d82
+#EXTINF:-1 group-title="",日本直播21
+p2p://121.17.126.83:8906/532ac057000ec21defe1901807013a86
+#EXTINF:-1 group-title="",日本直播22
+p2p://121.17.126.83:8906/532ac02b00068c3fefe0e21e24370d05
+#EXTINF:-1 group-title="",日本直播23
+p2p://121.17.126.83:8906/532ac02c00073cd1efe0e63316923725
+#EXTINF:-1 group-title="",日本直播24
+p2p://121.17.126.83:8906/532ac02b000ee110efe0e4406cde5a99
+#EXTINF:-1 group-title="42P2P直播",日本直播1每日放送
+p2p://42.116.8.233:9906/5382dbea0000d949ef8c05ad4b22045a
+#EXTINF:-1 group-title="42P2P直播",日本直播2
+p2p://42.116.8.233:9906/5382dc090002c191ef8c7f4260c10ae5
+#EXTINF:-1 group-title="42P2P直播",日本直播3
+p2p://42.116.8.233:9906/5382dc070000d949ef8c76f539233e7d
+#EXTINF:-1 group-title="42P2P直播",日本直播4
+p2p://42.116.8.233:9906/5382dbda00078645ef8bc8e2380e6d03
+#EXTINF:-1 group-title="42P2P直播",日本直播5
+p2p://42.116.8.233:9906/5382dbe7000f2765ef8bfd9e62442705
+#EXTINF:-1 group-title="42P2P直播",日本直播6
+p2p://42.116.8.233:9906/5382dc160001535bef8cb1ac2f8b47eb
+#EXTINF:-1 group-title="42P2P直播",日本直播7
+p2p://42.116.8.233:9906/5382dbe9000c8802ef8c04c27fef722f
+#EXTINF:-1 group-title="42P2P直播",日本直播8
+p2p://42.116.8.233:9906/5382dc150009ab96ef8cafe7577c110e
+#EXTINF:-1 group-title="42P2P直播",日本直播9
+p2p://42.116.8.233:9906/5382dc150003f2beef8cae7018865570
+#EXTINF:-1 group-title="42P2P直播",日本直播10
+p2p://42.116.8.233:9906/5382dbe90007c34eef8c038a588c4fe0
+#EXTINF:-1 group-title="42P2P直播",日本直播11
+p2p://42.116.8.233:9906/5382dc0600011652ef8c731c33f01f9a
+#EXTINF:-1 group-title="42P2P直播",日本直播12
+p2p://42.116.8.233:9906/5382dc16000eea5cef8cb52716a673b6
+#EXTINF:-1 group-title="42P2P直播",日本直播13
+p2p://42.116.8.233:9906/5382dc16000b19ccef8cb42d36fc4697
+#EXTINF:-1 group-title="42P2P直播",日本直播14
+p2p://42.116.8.233:9906/5382dc1700065518ef8cb6dc10847d6c
+#EXTINF:-1 group-title="42P2P直播",日本直播15
+p2p://42.116.8.233:9906/5382dbda0002fe9aef8bc7b95a582fc3
+#EXTINF:-1 group-title="42P2P直播",日本直播16
+p2p://42.116.8.233:9906/5382dc16000523ebef8cb2a66c376c76
+#EXTINF:-1 group-title="42P2P直播",日本直播17
+p2p://42.116.8.233:9906/5382dc170002fe9aef8cb6014bc173b5
+#EXTINF:-1 group-title="42P2P直播",日本直播18
+p2p://42.116.8.233:9906/5382dbea00042fc7ef8c0688441973e7
+#EXTINF:-1 group-title="42P2P直播",日本直播19
+p2p://42.116.8.233:9906/5382dbea00078645ef8c076230471a72
+#EXTINF:-1 group-title="42P2P直播",日本直播20
+p2p://42.116.8.233:9906/5382dc05000cc50bef8c723208b51de4
+#EXTINF:-1 group-title="59P2P直播",日本直播1每日放送
+p2p://59.37.87.90:6001/550fc384000af4430f84cc3547cd5b5b
+#EXTINF:-1 group-title="59P2P直播",日本直播2
+p2p://59.37.87.90:6001/550fc383000c2b310f84c89d65bf4ad1
+#EXTINF:-1 group-title="59P2P直播",日本直播3
+p2p://59.37.87.90:6001/550fc35d00057a6d0f8432767bd04e41
+#EXTINF:-1 group-title="59P2P直播",日本直播4
+p2p://59.37.87.90:6001/550fc3840009c3920f84cbe73c20301f
+#EXTINF:-1 group-title="59P2P直播",日本直播5
+p2p://59.37.87.90:6001/550fc35d0000f49d0f84314d5d8036ac
+#EXTINF:-1 group-title="59P2P直播",日本直播6
+p2p://59.37.87.90:6001/550fc35c000d988d0f8430a227ad2d6f
+#EXTINF:-1 group-title="59P2P直播",日本直播7
+p2p://59.37.87.90:6001/550fc3700005f78f0f847cce798e5153
+#EXTINF:-1 group-title="59P2P直播",日本直播8
+p2p://59.37.87.90:6001/550fc35d000dcf3e0f84349858126959
+#EXTINF:-1 group-title="59P2P直播",日本直播9
+p2p://59.37.87.90:6001/550fc35d000af3fe0f8433dd07f9062d
+#EXTINF:-1 group-title="59P2P直播",日本直播10
+p2p://59.37.87.90:6001/550fc39a000ef0ba0f85232a7f8e5f0d
+#EXTINF:-1 group-title="59P2P直播",日本直播11
+p2p://59.37.87.90:6001/550fc35d000855ae0f84333111724dec
+#EXTINF:-1 group-title="59P2P直播",日本直播12
+p2p://59.37.87.90:6001/550fc35e00012b4f0f84354475051b3b
+#EXTINF:-1 group-title="59P2P直播",日本直播13
+p2p://59.37.87.90:6001/550fc384000c61e30f84cc9361c057e1
+#EXTINF:-1 group-title="59P2P直播",日本直播14
+p2p://59.37.87.90:6001/550fc384000d92930f84cce14d776406
+#EXTINF:-1 group-title="59P2P直播",日本直播15
+p2p://59.37.87.90:6001/550fc3700007a21f0f847d3b3eb03c3d
+#EXTINF:-1 group-title="59P2P直播",日本直播16
+p2p://59.37.87.90:6001/550fc3700000f7de0f847b867c0d6b3a
+#EXTINF:-1 group-title="59P2P直播",成人 HD
+http://ru-element.ru/playlist/playlist.php?ch=4&amp;r=my日本综艺2,http://119.147.242.9:14175
+#EXTINF:-1 group-title="59P2P直播",日本综艺3
+http://119.147.242.9:14179
+#EXTINF:-1 group-title="59P2P直播",日本综艺5
+http://119.147.242.9:14184日韩CR电影4,rtmp://123.108.164.71/etv2/phd1003舒城娱乐,rtsp://220.180.24.62/live3
+#EXTINF:-1 group-title="59P2P直播",北广传媒频道
+rtmp://www.bj-mobiletv.com:8000/live/live1
+#EXTINF:-1 group-title="59P2P直播",梧州公共频道
+rtmp://202.103.212.146/livepkgr/live2
+#EXTINF:-1 group-title="59P2P直播",唐山公共频道
+mmst://live.tsr.he.cn/tv4
+#EXTINF:-1 group-title="59P2P直播",哈尔滨资讯频道
+http://222.171.183.168/live/a0ec0db48f2c48c6823967990b86120d.m3u8?fmt=h264_500k_ts&amp;m3u8
+#EXTINF:-1 group-title="59P2P直播",哈尔滨生活频道
+rtsp://222.171.183.168/live/4e951f7b94704da6a9d0e7a15ab79d58?fmt=h264_300k_3gp
+#EXTINF:-1 group-title="59P2P直播",湖北购物
+http://live9.hbtv.com.cn/channels/zbk/mjgw/flv:sd/live.flv
+#EXTINF:-1 group-title="59P2P直播",南京教科频道
+http://live.xwei.tv/channels/njtv/video_kj/flv:500k/live
+#EXTINF:-1 group-title="59P2P直播",南京少儿频道
+http://live.xwei.tv/channels/njtv/video_shaoer/flv:500k/live
+#EXTINF:-1 group-title="59P2P直播",南京生活频道
+http://live.xwei.tv/channels/njtv/video_shh/flv:500k/live
+#EXTINF:-1 group-title="59P2P直播",南京十八频道
+http://live.xwei.tv/channels/njtv/video_18/flv:500k/live
+#EXTINF:-1 group-title="59P2P直播",南京娱乐频道
+http://live.xwei.tv/channels/njtv/video_yl/flv:500k/live
+#EXTINF:-1 group-title="59P2P直播",沭阳新闻综合
+http://zb.sygd.tv/hls-live/livepkgr/_definst_/wslhevent/hls_pindao_1_500.m3u8
+#EXTINF:-1 group-title="59P2P直播",大连生活频道
+rtmp://live.dltv.cn/live/live2
+#EXTINF:-1 group-title="59P2P直播",晴彩潍坊
+rtsp://218.57.169.29/tv-jcwf
+#EXTINF:-1 group-title="59P2P直播",舟山新闻
+rtmp://61.175.103.117:8080/live/zst001
+#EXTINF:-1 group-title="59P2P直播",舟山公共
+rtmp://61.175.103.117:8080/live/zst002
+#EXTINF:-1 group-title="59P2P直播",舟山就业
+http://61.175.103.117:8080/live/zst004/playlist.m3u8
+#EXTINF:-1 group-title="59P2P直播",舟山旅游
+rtmp://61.175.103.117:8080/live/zst003
+#EXTINF:-1 group-title="59P2P直播",衢州经济
+http://m.l.cztv.com:554/quzhoutv_edge/quzhou_3/playlist.m3u8
+#EXTINF:-1 group-title="59P2P直播",海宁生活
+rtmp://stream.haining.tv/live/hnfw_sd
+#EXTINF:-1 group-title="59P2P直播",CIBN动漫
+http://cibn.peoplevideo.cn/hls/vCIBNDMPD/800/vCIBNDMPD.m3u8
+#EXTINF:-1 group-title="59P2P直播",河北卫视高清
+http://live01.hebtv.com/channels/hebtv/video_channel_04/ts:2000k/live
+#EXTINF:-1 group-title="59P2P直播",佛教
+http://211.73.19.201/live/E6290DC0-BE6A-B7C4-79F5-114BDB417F9E?fmt=x264_500K_ts&amp;cpid=admin&amp;size=1280X720&amp;toflv=1
+#EXTINF:-1 group-title="59P2P直播",伟哥TV，
+http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn_1024/index.m3u8
+#EXTINF:-1 group-title="59P2P直播",ＴＡＲＡ
+http://wshdl.load.cdn.zhanqi.tv/zqlive/1285_Zloy4.flv
+#EXTINF:-1 group-title="59P2P直播",福利台
+http://wshdl.load.cdn.zhanqi.tv/zqlive/15773_BDfrG.flv
+#EXTINF:-1 group-title="59P2P直播",周星驰电影高清
+http://182.34.127.33/wshdl.load.cdn.zhanqi.tv/zqlive/15773_BDfrG.flv?wshc_tag=0&amp;wsiphost=ipdbm
+#EXTINF:-1 group-title="59P2P直播",高清影院7
+http://dlhls.cdn.zhanqi.tv/zqlive/15773_BDfrG_1024/index.m3u8
+#EXTINF:-1 group-title="59P2P直播",韩国01
+rtmp://123.108.164.71/etv2sb/pld59
+#EXTINF:-1 group-title="59P2P直播",韩国02
+rtmp://123.108.164.71/etv2sb/pld60
+#EXTINF:-1 group-title="59P2P直播",韩国03
+rtmp://123.108.164.71/etv2sb/pld61
+#EXTINF:-1 group-title="59P2P直播",韩国04
+rtmp://123.108.164.71/etv2sb/pld62
+#EXTINF:-1 group-title="59P2P直播",韩国05
+rtmp://123.108.164.71/etv2sb/pld63
+#EXTINF:-1 group-title="59P2P直播",韩国06
+rtmp://123.108.164.71/etv2sb/pld64
+#EXTINF:-1 group-title="59P2P直播",韩国08
+rtmp://123.108.164.71/etv2sb/pld499
+#EXTINF:-1 group-title="59P2P直播",韩国09
+rtmp://123.108.164.71/etv2sb/pld501
+#EXTINF:-1 group-title="59P2P直播",韩国10
+rtmp://123.108.164.71/etv2sb/pld511
+#EXTINF:-1 group-title="59P2P直播",韩国13
+rtmp://123.108.164.71/etv2sb/pld769
+#EXTINF:-1 group-title="59P2P直播",韩国14
+rtmp://123.108.164.71/etv2sb/pld771
+#EXTINF:-1 group-title="59P2P直播",韩国15
+rtmp://123.108.164.71/etv2sb/pld772
+#EXTINF:-1 group-title="59P2P直播",韩国18
+rtmp://123.108.164.71/etv2sb/pld968
+#EXTINF:-1 group-title="59P2P直播",韩国19
+rtmp://123.108.164.71/etv2sb/pld991
+#EXTINF:-1 group-title="59P2P直播",韩国20
+rtmp://123.108.164.71/etv2sb/pld992
+#EXTINF:-1 group-title="59P2P直播",韩国21
+rtmp://123.108.164.71/etv2sb/pld993
+#EXTINF:-1 group-title="59P2P直播",韩国22
+rtmp://123.108.164.71/etv2/pld1003
+#EXTINF:-1 group-title="59P2P直播",韩国23
+rtmp://123.108.164.71/etv2/pld1005
+#EXTINF:-1 group-title="59P2P直播",韩国24
+rtmp://123.108.164.71/etv2/pld1006
+#EXTINF:-1 group-title="59P2P直播",韩国25
+rtmp://123.108.164.71/etv2/pld1008
+#EXTINF:-1 group-title="59P2P直播",韩国01
+rtmp://123.108.164.71/etv2sb/phd59
+#EXTINF:-1 group-title="59P2P直播",韩国02
+rtmp://123.108.164.71/etv2sb/phd60
+#EXTINF:-1 group-title="59P2P直播",韩国03
+rtmp://123.108.164.71/etv2sb/phd61
+#EXTINF:-1 group-title="59P2P直播",韩国04
+rtmp://123.108.164.71/etv2sb/phd62
+#EXTINF:-1 group-title="59P2P直播",韩国05
+rtmp://123.108.164.71/etv2sb/phd63
+#EXTINF:-1 group-title="59P2P直播",韩国06
+rtmp://123.108.164.71/etv2sb/phd64
+#EXTINF:-1 group-title="59P2P直播",韩国08
+rtmp://123.108.164.71/etv2sb/phd499
+#EXTINF:-1 group-title="59P2P直播",韩国09
+rtmp://123.108.164.71/etv2sb/phd501
+#EXTINF:-1 group-title="59P2P直播",韩国10
+rtmp://123.108.164.71/etv2sb/phd511
+#EXTINF:-1 group-title="59P2P直播",韩国13
+rtmp://123.108.164.71/etv2sb/phd769
+#EXTINF:-1 group-title="59P2P直播",韩国有14
+rtmp://123.108.164.71/etv2sb/phd771
+#EXTINF:-1 group-title="59P2P直播",韩国有15
+rtmp://123.108.164.71/etv2sb/phd772
+#EXTINF:-1 group-title="59P2P直播",韩国有18
+rtmp://123.108.164.71/etv2sb/phd968
+#EXTINF:-1 group-title="59P2P直播",韩国有19
+rtmp://123.108.164.71/etv2sb/phd991
+#EXTINF:-1 group-title="59P2P直播",韩国有20
+rtmp://123.108.164.71/etv2sb/phd992
+#EXTINF:-1 group-title="59P2P直播",韩国有21
+rtmp://123.108.164.71/etv2sb/phd993
+#EXTINF:-1 group-title="59P2P直播",韩国有22
+rtmp://123.108.164.71/etv2/phd1003
+#EXTINF:-1 group-title="59P2P直播",韩国有23
+rtmp://123.108.164.71/etv2/phd1005
+#EXTINF:-1 group-title="59P2P直播",韩国有24
+rtmp://123.108.164.71/etv2/phd1006
+#EXTINF:-1 group-title="59P2P直播",韩国有25
+rtmp://123.108.164.71/etv2/phd1008
+#EXTINF:-1 group-title="59P2P直播",韩国KCTV
+rtmp://122.202.129.136:1935/live/ch4
+#EXTINF:-1 group-title="59P2P直播",韩国KCTV-HD
+rtmp://122.202.129.136:1935/live/ch5
+#EXTINF:-1 group-title="59P2P直播",KTV-HD
+rtmp://218.38.152.31/klive/klive.stream
+#EXTINF:-1 group-title="59P2P直播",韩国KCTV
+rtmp://122.202.129.136:1935/live/ch4
+#EXTINF:-1 group-title="59P2P直播",韩国KCTV-HD
+rtmp://122.202.129.136:1935/live/ch5JAPAN:mega
+#EXTINF:-1 group-title="59P2P直播",JAPAN:mjtv 
+rtsp://c.itvitv.com/j.gfhghdayh
+#EXTINF:-1 group-title="59P2P直播",JAPAN:nhk 
+rtsp://c.itvitv.com/nhke.huyudfroskrjw
+#EXTINF:-1 group-title="59P2P直播",JAPAN:ntv24t 
+rtsp://u.itvitv.com/ntv24t
+#EXTINF:-1 group-title="59P2P直播",JAPAN:plus 
+rtsp://2.itvitv.com/plus.iuweynciuweny
+#EXTINF:-1 group-title="59P2P直播",JAPAN:TbsMusicDay 
+rtsp://u.itvitv.com/TbsMusicDay
+#EXTINF:-1 group-title="59P2P直播",JAPAN:test2 
+rtsp://u.itvitv.com/test2.j
+#EXTINF:-1 group-title="59P2P直播",JAPAN:test3 
+rtsp://c.itvitv.com/jp.test3
+#EXTINF:-1 group-title="59P2P直播",JAPAN:wowow 
+rtsp://c.itvitv.com/wowow
+#EXTINF:-1 group-title="59P2P直播",JAPAN:mega 
+rtsp://c.itvitv.com/mega
+#EXTINF:-1 group-title="59P2P直播",JAPAN:mjtv 
+rtsp://c.itvitv.com/j.gfhghdayh
+#EXTINF:-1 group-title="59P2P直播",JAPAN:nhk 
+rtsp://c.itvitv.com/nhke.huyudfroskrjw
+#EXTINF:-1 group-title="59P2P直播",JAPAN:plus 
+rtsp://2.itvitv.com/plus.iuweynciuweny
+#EXTINF:-1 group-title="59P2P直播",JAPAN:TbsMusicDay 
+rtsp://u.itvitv.com/TbsMusicDay
+#EXTINF:-1 group-title="59P2P直播",JAPAN:test3 
+rtsp://c.itvitv.com/jp.test3
+#EXTINF:-1 group-title="59P2P直播",JAPAN:wowow 
+rtsp://c.itvitv.com/wowow
+#EXTINF:-1 group-title="59P2P直播",一本道2
+rtmp://198.211.33.185/livepkgr/1C
+#EXTINF:-1 group-title="59P2P直播",松视3
+http://www.sonsee.com.tw/filmfiles4/HSDN-366-2_484521.mp4
+#EXTINF:-1 group-title="59P2P直播",松视4
+http://www.sonsee.com.tw/filmfiles4/HSDN-005-2_12345.mp4
+#EXTINF:-1 group-title="59P2P直播",日本1
+http://59.120.43.181:8081
+#EXTINF:-1 group-title="59P2P直播",日本2
+http://59.120.43.181:8082
+#EXTINF:-1 group-title="59P2P直播",日本3
+http://59.120.43.181:8083
+#EXTINF:-1 group-title="59P2P直播",日本4
+http://59.120.43.181:8084
+#EXTINF:-1 group-title="59P2P直播",日本无码1
+http://199.195.195.108:32001
+#EXTINF:-1 group-title="59P2P直播",日本无码2
+http://199.195.195.108:32002
+#EXTINF:-1 group-title="59P2P直播",日本无码3
+http://199.195.195.108:32003
+#EXTINF:-1 group-title="59P2P直播",日本无码4
+http://199.195.195.108:32004日本NHK高清,rtmp://ca-1.srv.fivecool.net/nhkw/gwm
+#EXTINF:-1 group-title="59P2P直播",日本NHK国际台
+rtmp://ca-1.net.fivecool.org/nhkw/gwm
+#EXTINF:-1 group-title="59P2P直播",日本NHK国际台
+rtmp://jp-4.ntt2.fivecool.net/nhkw/gwm
+#EXTINF:-1 group-title="59P2P直播",亚洲电影
+http://223.27.170.210/channels/39/800.flv/live
+#EXTINF:-1 group-title="59P2P直播",NHK
+rtmp://ca-1.net.fivecool.org/nhkw/gwm
+#EXTINF:-1 group-title="59P2P直播",NHK
+rtmp://175.103.51.2:1935/live/nhk.stream
+#EXTINF:-1 group-title="59P2P直播",富士
+http://live.91kds.net/d/fy.php?380789_1361122311044
+#EXTINF:-1 group-title="59P2P直播",TOKYO
+http://live.91kds.net/d/fy.php?380789_1361122299029
+#EXTINF:-1 group-title="59P2P直播",东京电视
+http://live.91kds.net/d/fy.php?380789_1361122287939
+#EXTINF:-1 group-title="59P2P直播",NHK综合
+http://live.91kds.net/d/fy.php?380789_1361122322555
+#EXTINF:-1 group-title="59P2P直播",NHK国际
+rtmp://ca-1.net.fivecool.org/nhkw//gwm
+#EXTINF:-1 group-title="59P2P直播",NHK教育
+http://live.91kds.net/d/fy.php?380789_1361122340012
+#EXTINF:-1 group-title="59P2P直播",NHK-BS1
+http://live.91kds.net/d/fy.php?380789_1361122469575
+#EXTINF:-1 group-title="59P2P直播",BS-NHK
+http://live.91kds.net/d/fy.php?244712_1357150118070
+#EXTINF:-1 group-title="59P2P直播",BS-FUJI
+http://live.91kds.net/d/fy.php?380789_1361266041665
+#EXTINF:-1 group-title="59P2P直播",BS-JAPAN
+http://live.91kds.net/d/fy.php?380789_1361122458747
+#EXTINF:-1 group-title="59P2P直播",TBS1
+http://live.91kds.net/d/fy.php?380789_1361122363214
+#EXTINF:-1 group-title="59P2P直播",axnhd
+http://113.160.49.36/lives/origin03/axnhdmb.isml/axnhdmb.m3u8
+#EXTINF:-1 group-title="59P2P直播",animax
+http://fw01.livem3u8.me.totiptv.com/live/d3edb48a8bb847c78432270e23ddca73.m3u8?bitrate=800
+#EXTINF:-1 group-title="59P2P直播",朝日
+http://live.91kds.net/d/fy.php?380789_1361121939507
+#EXTINF:-1 group-title="59P2P直播",J-sports1
+http://live.91kds.net/d/fy.php?380789_1361122373317
+#EXTINF:-1 group-title="59P2P直播",J-sports2
+http://live.91kds.net/d/fy.php?380789_1361122389754
+#EXTINF:-1 group-title="59P2P直播",J-sportsESPN
+http://live.91kds.net/d/fy.php?380789_1361122401795
+#EXTINF:-1 group-title="59P2P直播",J-sportsPLUS
+http://live.91kds.net/d/fy.php?380789_1361122413288
+#EXTINF:-1 group-title="59P2P直播",MBS
+http://live.91kds.net/d/fy.php?380789_1361122482222
+#EXTINF:-1 group-title="59P2P直播",欧美无码1
+http://199.195.195.108:32005
+#EXTINF:-1 group-title="59P2P直播",p4
+http://videos.megasesso.com/videos/qtfast/POV_For_Your_Eyes_Only_Scene_4_lh.mp4?[/url]
+#EXTINF:-1 group-title="59P2P直播",HD欧美73
+http://img3.younggirlstube.com/scj/thumbs/galleries/7/176/0_268.flv
+#EXTINF:-1 group-title="59P2P直播",HD欧美74
+http://img3.younggirlstube.com/scj/thumbs/galleries/7/160/0_945.flv
+#EXTINF:-1 group-title="59P2P直播",HD欧美75
+http://img4.younggirlstube.com/scj/thumbs/galleries/7/042/0_402.flv
+#EXTINF:-1 group-title="59P2P直播",HD欧美77
+http://img3.younggirlstube.com/scj/thumbs/galleries/7/127/0_242.flv
+#EXTINF:-1 group-title="59P2P直播",HD欧美78
+http://img3.younggirlstube.com/scj/thumbs/galleries/7/870/0_631.flv
+#EXTINF:-1 group-title="59P2P直播",HD欧美81
+http://img5.younggirlstube.com/scj/thumbs/galleries/7/162/0_192.flv
+#EXTINF:-1 group-title="59P2P直播",HD欧美86
+http://img5.younggirlstube.com/scj/thumbs/galleries/7/184/0_772.flv
+#EXTINF:-1 group-title="59P2P直播",HD欧美87
+http://img3.younggirlstube.com/scj/thumbs/galleries/7/162/0_192.flv
+#EXTINF:-1 group-title="59P2P直播",HD欧美88
+http://img3.younggirlstube.com/scj/thumbs/galleries/7/320/0_228.flv
+#EXTINF:-1 group-title="59P2P直播",HD欧美89
+http://img4.younggirlstube.com/scj/thumbs/galleries/7/019/0_476.flv
+#EXTINF:-1 group-title="59P2P直播",HD欧美90
+http://s4233.wtfpass.com/tap/flv/0023tapflvjpn.flv
+#EXTINF:-1 group-title="59P2P直播",HD欧美120
+http://img5.younggirlstube.com/scj/thumbs/galleries/7/123/0_833.flv
+#EXTINF:-1 group-title="59P2P直播",11CR
+http://a7-60.5-201.cdn13.com/29000/29132/29132.flv?cdn_hash=7a114472d44b65cd0695a7d3dc699cc7&amp;cdn_creation_time=1384716378&amp;cdn_ttl=600
+#EXTINF:-1 group-title="59P2P直播",13CR
+http://a7-60.5-201.cdn13.com/28000/28944/28944.flv?cdn_hash=774c0d30d6795809d2f2b2b624bf73e6&amp;cdn_creation_time=1384716278&amp;cdn_ttl=600
+#EXTINF:-1 group-title="59P2P直播",15CR
+http://a7-60.5-201.cdn13.com/29000/29091/29091.flv?cdn_hash=f418e7ca2a9080b9fd198ff5e41b8d98&amp;cdn_creation_time=1384716206&amp;cdn_ttl=600
+#EXTINF:-1 group-title="59P2P直播",16CR
+http://a7-60.5-69.cdn13.com/28000/28927/28927.flv?cdn_hash=617053833638d35a5a573c8103eb99a2&amp;cdn_creation_time=1384716160&amp;cdn_ttl=600
+#EXTINF:-1 group-title="59P2P直播",17CR
+http://a7-60.5-166.cdn13.com/28000/28905/28905.flv?cdn_hash=6b4ff1cce737e022d134ca0015cc9513&amp;cdn_creation_time=1384716079&amp;cdn_ttl=600
+#EXTINF:-1 group-title="59P2P直播",18CR
+http://a7-60.5-194.cdn13.com/28000/28978/28978.flv?cdn_hash=7875862e59b6da6bf73ef9952ef2c722&amp;cdn_creation_time=1384716001&amp;cdn_ttl=600
+#EXTINF:-1 group-title="59P2P直播",19CR
+http://a7-60.5-78.cdn13.com/29000/29139/29139.flv?cdn_hash=9f0626ce9c59dcd6da293aaa58813927&amp;cdn_creation_time=1384715929&amp;cdn_ttl=600
+#EXTINF:-1 group-title="59P2P直播",20CR
+http://a7-60.5-167.cdn13.com/29000/29018/29018.flv?cdn_hash=67b2ca616d79f623aa9daaf5f7a4e833&amp;cdn_creation_time=1384715854&amp;cdn_ttl=600
+#EXTINF:-1 group-title="59P2P直播",25CR
+http://a7-60.5-166.cdn13.com/29000/29090/29090.flv?cdn_hash=aaff703f4231d13733bb1592c4f696a6&amp;cdn_creation_time=1384715634&amp;cdn_ttl=600
+#EXTINF:-1 group-title="59P2P直播",26CR
+http://a7-60.5-201.cdn13.com/29000/29128/29128.flv?cdn_hash=aaadff27d6ab2649c58be2c80e95fbcc&amp;cdn_creation_time=1384715303&amp;cdn_ttl=600
+#EXTINF:-1 group-title="59P2P直播",2CR
+http://a7-60.5-194.cdn13.com/30000/30931/30931.flv?
+#EXTINF:-1 group-title="59P2P直播",47CR
+http://a7-60.5-201.cdn13.com/30000/30939/30939.flv?
+#EXTINF:-1 group-title="59P2P直播",3CR
+http://a7-60.5-78.cdn13.com/25000/25253/25253.flv?
+#EXTINF:-1 group-title="59P2P直播",4CR
+http://a7-60.5-200.cdn13.com/25000/25385/25385.flv?
+#EXTINF:-1 group-title="59P2P直播",20CR
+http://a7-60.5-167.cdn13.com/29000/29018/29018.flv?
+#EXTINF:-1 group-title="59P2P直播",39CR
+http://a7-60.5-194.cdn13.com/30000/30938/30938.flv?
+#EXTINF:-1 group-title="59P2P直播",HD欧美13
+http://sofuckingreal.com/movies/cfnm18/fitness08.mp4
+#EXTINF:-1 group-title="59P2P直播",HD欧美24
+http://tube.cheerleaderfacials.com/trailers/609/cheerleaderfacial_Natalia_Rossi_0006.flv
+#EXTINF:-1 group-title="59P2P直播",HD欧美73
+http://img3.younggirlstube.com/scj/thumbs/galleries/7/176/0_268.flv
+#EXTINF:-1 group-title="59P2P直播",HD欧美74
+http://img3.younggirlstube.com/scj/thumbs/galleries/7/160/0_945.flv
+#EXTINF:-1 group-title="59P2P直播",HD欧美75
+http://img4.younggirlstube.com/scj/thumbs/galleries/7/042/0_402.flv
+#EXTINF:-1 group-title="59P2P直播",HD欧美77
+http://img3.younggirlstube.com/scj/thumbs/galleries/7/127/0_242.flv
+#EXTINF:-1 group-title="59P2P直播",HD欧美78
+http://img3.younggirlstube.com/scj/thumbs/galleries/7/870/0_631.flv
+#EXTINF:-1 group-title="59P2P直播",HD欧美81
+http://img5.younggirlstube.com/scj/thumbs/galleries/7/162/0_192.flv
+#EXTINF:-1 group-title="59P2P直播",HD欧美86
+http://img5.younggirlstube.com/scj/thumbs/galleries/7/184/0_772.flv
+#EXTINF:-1 group-title="59P2P直播",HD欧美87
+http://img3.younggirlstube.com/scj/thumbs/galleries/7/162/0_192.flv
+#EXTINF:-1 group-title="59P2P直播",HD欧美88
+http://img3.younggirlstube.com/scj/thumbs/galleries/7/320/0_228.flv
+#EXTINF:-1 group-title="59P2P直播",HD欧美89
+http://img4.younggirlstube.com/scj/thumbs/galleries/7/019/0_476.flv
+#EXTINF:-1 group-title="59P2P直播",HD欧美90
+http://s4233.wtfpass.com/tap/flv/0023tapflvjpn.flv
+#EXTINF:-1 group-title="59P2P直播",HD欧美91
+http://galleries.wtfpass.com/hs18/flv/hs180028.flv
+#EXTINF:-1 group-title="59P2P直播",HD欧美120
+http://img5.younggirlstube.com/scj/thumbs/galleries/7/123/0_833.flv
+#EXTINF:-1 group-title="59P2P直播",HD欧美125
+http://www.wetandpissy.com/media/tubes2/wps_WendyMoon_5min.mp4
+#EXTINF:-1 group-title="59P2P直播",HD欧美126
+http://galleries.payserve.com/1/43131/55380/5mins_sv.flv
+#EXTINF:-1 group-title="59P2P直播",HD欧美128
+http://video6.thepluginz.com/4/spoiledvirgins_159/hosted_flash/big_11.mp4
+#EXTINF:-1 group-title="59P2P直播",HD欧美131
+http://video5.thepluginz.com/30/oldgoesyoung_036/hosted_flash/big_5.mp4
+#EXTINF:-1 group-title="59P2P直播",47CR
+http://a7-60.5-201.cdn13.com/30000/30939/30939.flv?cdn_hash=55b79b3129fadd5ae3f34a51813017c7&amp;cdn_creation_time=1384713477&amp;cdn_ttl=600
+#EXTINF:-1 group-title="59P2P直播",3CR
+http://a7-60.5-78.cdn13.com/25000/25253/25253.flv?cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600
+#EXTINF:-1 group-title="59P2P直播",4CR
+http://a7-60.5-200.cdn13.com/25000/25385/25385.flv?cdn_hash=7cffda1882fc4692dfc751906c97972a&amp;cdn_creation_time=1384717475&amp;cdn_ttl=600
+#EXTINF:-1 group-title="59P2P直播",5CR
+http://a7-60.5-77.cdn13.com/25000/25543/25543.flv?cdn_hash=be10edcd25bd236f0b8dc611eedff621&amp;cdn_creation_time=1384717438&amp;cdn_ttl=600
+#EXTINF:-1 group-title="59P2P直播",6CR
+http://a7-60.5-166.cdn13.com/25000/25571/25571.flv?cdn_hash=08766536c88497ed0bb80f38f0141714&amp;cdn_creation_time=1384717393&amp;cdn_ttl=600
+#EXTINF:-1 group-title="59P2P直播",7CR
+http://a7-60.5-79.cdn13.com/29000/29224/29224.flv?cdn_hash=6a7152be047b8d2d13872a9a528e4518&amp;cdn_creation_time=1384716762&amp;cdn_ttl=600
+#EXTINF:-1 group-title="59P2P直播",9CR
+http://a7-60.5-69.cdn13.com/28000/28880/28880.flv?cdn_hash=762cdcbc6d8a139754d33c17f86d4648&amp;cdn_creation_time=1384716555&amp;cdn_ttl=600
+#EXTINF:-1 group-title="59P2P直播",11CR
+http://a7-60.5-201.cdn13.com/29000/29132/29132.flv?cdn_hash=7a114472d44b65cd0695a7d3dc699cc7&amp;cdn_creation_time=1384716378&amp;cdn_ttl=600
+#EXTINF:-1 group-title="59P2P直播",13CR
+http://a7-60.5-201.cdn13.com/28000/28944/28944.flv?cdn_hash=774c0d30d6795809d2f2b2b624bf73e6&amp;cdn_creation_time=1384716278&amp;cdn_ttl=600
+#EXTINF:-1 group-title="59P2P直播",15CR
+http://a7-60.5-201.cdn13.com/29000/29091/29091.flv?cdn_hash=f418e7ca2a9080b9fd198ff5e41b8d98&amp;cdn_creation_time=1384716206&amp;cdn_ttl=600
+#EXTINF:-1 group-title="59P2P直播",16CR
+http://a7-60.5-69.cdn13.com/28000/28927/28927.flv?cdn_hash=617053833638d35a5a573c8103eb99a2&amp;cdn_creation_time=1384716160&amp;cdn_ttl=600
+#EXTINF:-1 group-title="59P2P直播",17CR
+http://a7-60.5-166.cdn13.com/28000/28905/28905.flv?cdn_hash=6b4ff1cce737e022d134ca0015cc9513&amp;cdn_creation_time=1384716079&amp;cdn_ttl=600
+#EXTINF:-1 group-title="59P2P直播",18CR
+http://a7-60.5-194.cdn13.com/28000/28978/28978.flv?cdn_hash=7875862e59b6da6bf73ef9952ef2c722&amp;cdn_creation_time=1384716001&amp;cdn_ttl=600
+#EXTINF:-1 group-title="59P2P直播",19CR
+http://a7-60.5-78.cdn13.com/29000/29139/29139.flv?cdn_hash=9f0626ce9c59dcd6da293aaa58813927&amp;cdn_creation_time=1384715929&amp;cdn_ttl=600
+#EXTINF:-1 group-title="59P2P直播",20CR
+http://a7-60.5-167.cdn13.com/29000/29018/29018.flv?cdn_hash=67b2ca616d79f623aa9daaf5f7a4e833&amp;cdn_creation_time=1384715854&amp;cdn_ttl=600
+#EXTINF:-1 group-title="59P2P直播",g25CR
+http://a7-60.5-166.cdn13.com/29000/29090/29090.flv?cdn_hash=aaff703f4231d13733bb1592c4f696a6&amp;cdn_creation_time=1384715634&amp;cdn_ttl=600
+#EXTINF:-1 group-title="59P2P直播",26CR
+http://a7-60.5-201.cdn13.com/29000/29128/29128.flv?cdn_hash=aaadff27d6ab2649c58be2c80e95fbcc&amp;cdn_creation_time=1384715303&amp;cdn_ttl=600
+#EXTINF:-1 group-title="59P2P直播",28CR
+http://a7-60.5-194.cdn13.com/28000/28999/28999.flv?cdn_hash=fd78bf7ca02ec2fc4fdb547010ebb86a&amp;cdn_creation_time=1384715227&amp;cdn_ttl=600
+#EXTINF:-1 group-title="59P2P直播",29CR
+http://a7-60.5-79.cdn13.com/28000/28941/28941.flv?cdn_hash=8be4152cdba1fdd9cbefea35cd1a817e&amp;cdn_creation_time=1384715201&amp;cdn_ttl=600
+#EXTINF:-1 group-title="59P2P直播",30CR
+http://a7-60.5-200.cdn13.com/29000/29229/29229.flv?cdn_hash=2f8f4afcbb8c5031fffae81fd72fc9f5&amp;cdn_creation_time=1384715174&amp;cdn_ttl=600
+#EXTINF:-1 group-title="59P2P直播",31CR
+http://a7-60.5-167.cdn13.com/29000/29220/29220.flv?cdn_hash=fe05d91a0838cc105d9062e77ededdcb&amp;cdn_creation_time=1384715020&amp;cdn_ttl=600
+#EXTINF:-1 group-title="59P2P直播",32CR
+http://a7-60.5-78.cdn13.com/29000/29181/29181.flv?cdn_hash=b0e90f92a7534ccaa6a2532f1f4d5bf9&amp;cdn_creation_time=1384714941&amp;cdn_ttl=600
+#EXTINF:-1 group-title="59P2P直播",34CR
+http://a7-60.5-69.cdn13.com/28000/28974/28974.flv?cdn_hash=6c90dd84e575b76149c82aeb14eafb41&amp;cdn_creation_time=1384714793&amp;cdn_ttl=600
+#EXTINF:-1 group-title="59P2P直播",35CR
+http://a7-60.5-194.cdn13.com/30000/30947/30947.flv?cdn_hash=8dd7906448795dc757ce15096a204848&amp;cdn_creation_time=1384714746&amp;cdn_ttl=600
+#EXTINF:-1 group-title="59P2P直播",36CR
+http://a7-60.5-194.cdn13.com/30000/30930/30930.flv?cdn_hash=2a020f4f5af6fd6795aef14c5eb32f14&amp;cdn_creation_time=1384714665&amp;cdn_ttl=600
+#EXTINF:-1 group-title="59P2P直播",37CR
+http://a7-60.5-194.cdn13.com/30000/30944/30944.flv?cdn_hash=fd24c0f3de0b16a398633a31335d228c&amp;cdn_creation_time=1384714559&amp;cdn_ttl=600
+#EXTINF:-1 group-title="59P2P直播",39CR
+http://a7-60.5-194.cdn13.com/30000/30938/30938.flv?cdn_hash=ffeed519fae4dff6891c33d7ba592fac&amp;cdn_creation_time=1384714467&amp;cdn_ttl=600
+#EXTINF:-1 group-title="59P2P直播",41CR
+http://a7-60.5-194.cdn13.com/30000/30920/30920.flv?cdn_hash=df89afb0f9e84d12e1a3ad7385e8fd86&amp;cdn_creation_time=1384714394&amp;cdn_ttl=600
+#EXTINF:-1 group-title="59P2P直播",42CR
+http://a7-60.5-77.cdn13.com/30000/30933/30933.flv?cdn_hash=a45939196b257ff989de501fe11e88ad&amp;cdn_creation_time=1384714359&amp;cdn_ttl=600
+#EXTINF:-1 group-title="59P2P直播",44CR
+http://a7-60.5-77.cdn13.com/30000/30919/30919.flv?cdn_hash=a8d0058a6ac4a1d48315899a31e9e6a2&amp;cdn_creation_time=1384714117&amp;cdn_ttl=600
+#EXTINF:-1 group-title="59P2P直播",45CR
+http://a7-60.5-194.cdn13.com/30000/30932/30932.flv?cdn_hash=9b5566bf859b991eda5e6733f46b35f7&amp;cdn_creation_time=1384714038&amp;cdn_ttl=600
+#EXTINF:-1 group-title="59P2P直播",50CR
+http://a7-60.5-201.cdn13.com/30000/30918/30918.flv?cdn_hash=9f05cc12da21778ed9b35a9064203a36&amp;cdn_creation_time=1384713722&amp;cdn_ttl=600
+#EXTINF:-1 group-title="59P2P直播",6CR
+http://a7-60.5-166.cdn13.com/25000/25571/25571.flv?cdn_hash=08766536c88497ed0bb80f38f0141714&amp;cdn_creation_time=1384717393&amp;cdn_ttl=600
+#EXTINF:-1 group-title="59P2P直播",03
+http://a7-60.5-194.cdn13.com/30000/30931/30931.flv?
+#EXTINF:-1 group-title="03,cdn_hash=66299f6be7e12855f9903d214900e7d8&amp;cdn_creation_time=1384714010&amp;cdn_ttl=600",04
+http://a7-60.5-201.cdn13.com/30000/30939/30939.flv?
+#EXTINF:-1 group-title="04,cdn_hash=55b79b3129fadd5ae3f34a51813017c7&amp;cdn_creation_time=1384713477&amp;cdn_ttl=600",05
+http://a7-60.5-78.cdn13.com/25000/25253/25253.flv?
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",Kanal D HD -1280*720
+http://212.224.108.80/S1/HLS_LIVE/kanald/1500/prog_index.m3u8
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",Bungr无码
+http://84.22.33.3:8066
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",10010
+rtmp://edge2.everyon.tv/etv2/phd1003
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",10011
+rtmp://edge2.everyon.tv/etv2/phd1005
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",10012
+rtmp://edge2.everyon.tv/etv2/phd511
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",10013
+rtmp://edge2.everyon.tv/etv2/phd1006
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",Babe Spotting
+http://46.249.213.93/iPhone/broadcast/babespotting-iphone.3gp.m3u8
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",FTV HOT
+http://46.249.213.93/iPhone/broadcast/ftvhot-iphone.3gp.m3u8
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",Hot Shots Beach Babes
+http://46.249.213.93/iPhone/broadcast/hotshotsbeachbabes-iphone.3gp.m3u8
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",wawa
+rtmp://stream.smcloud.net/live2/wawa/wawa_360p
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",松视试看1
+http://www.sonsee.com.tw//filmfiles4/HSDN-366-2_484521.mp4
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",松视试看2
+http://www.sonsee.com.tw//filmfiles4/HSDN-005-2_12345.mp4
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",松视4
+http://www.sonsee.com.tw/filmfiles4/HSDN-005-2_12345.mp4
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",AXN台.
+mms://1.itvitv.com/1axn.[/url]
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",p4
+http://videos.megasesso.com/videos/qtfast/POV_For_Your_Eyes_Only_Scene_4_lh.mp4?[/url]
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",2
+rtmp://194.116.150.47/live/visitx.stream2
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",sexprive==[url]
+rtsp://85.12.5.8:1935/aovivo/sexprive[/url]
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",(HD)RepublicOfKorea
+rtmp://lm07.everyon.tv/ptv7/phd10497
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",好莱坞电影台
+rtsp://c.itvitv.com/hlw.ueidhefgecuyh
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",法AIR==
+http://stream.air-tv.tv/live/_definst_/web2.stream/playlist.m3u8?wowzasessionid=1735787488
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",GoodTV好消息==
+rtmp://l.jdjys.net/livefy/livestream
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",GoodTV好消息==
+http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-ch1-3.m3u8
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",GoodTV好消息==
+http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-ch1-3.m3u8#http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-ch1-1.m3u8
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",無綫新聞==
+rtsp://e1.vdowowza.vip.hk1.tvb.com:1935/tvblive/mobile_newsevent_600.stream
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",無綫新聞==
+rtsp://e1.vdowowza.vip.hk1.tvb.com:1935/tvblive/mobile_newsevent_400.stream
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",GOODTV2==
+mms://122.226.102.202:1755/tv2
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",GOODTV2==
+rtsp://live.jdjys.net/tv2
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",GOODTV好消息==
+mms://122.226.102.202:1755/tv1
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",GOODTV好消息==
+rtsp://live.jdjys.net/tv1
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",GoodTV好消息
+http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-ch1-1.m3u8
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",GoodTV好消息2
+http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-ch2-1.m3u8
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",红星卫视
+rtmp://111.74.239.202:1935/live/c01
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",松视1
+rtmp://59.124.220.46:554/live/tv1.stream
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",松視四台
+p2p://60.248.161.224:6001/54929497000018b200054534ea8ba95c.ts
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",韩花花公子
+rtmp://lm02.everyon.tv:1935/ptv2/phd497
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",韩国CR3台
+rtmp://lm02.everyon.tv:1935/ptv/phd62
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",韩国CR6台
+rtmp://lm02.everyon.tv:1935/ptv/phd499
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",韩国CR8台
+rtmp://lm02.everyon.tv:1935/ptv/phd499
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",欧美CR6
+rtmp://111.118.21.76:1935/ptv/_definst_/phd499
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",卫视中文台==
+rtmp://202.1.2.18/live/2ch29000.stream
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",奥门资讯==
+rtmp://live2.tdm.com.mo:80/tv//ch5.live
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",亚州联合==
+rtmp://210.21.233.151:1935/app_2/ls_3.stream
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",美亚电影==
+rtmp://202.1.2.18/live/2ch27000.stream
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",奥大利亚2==
+rtmp://119.252.88.153/oflaDemo/livestream
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",永装性感
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",香港卫视HKS==
+rtmp://live.hkstv.hk.lxdns.com/live/hks
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",日韩1台
+rtmp://123.108.164.71/etv2sb/phd59
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",日韩3台
+rtmp://123.108.164.71/etv2sb/phd61
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",日韩4台
+rtmp://123.108.164.71/etv2sb/phd62
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",日韩5台
+rtmp://123.108.164.71/etv2sb/phd64
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",日韩6台
+rtmp://123.108.164.71/etv2sb/phd499
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",日韩7台
+rtmp://123.108.164.71/etv2sb/phd501
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",日韩9台
+rtmp://123.108.164.71/etv2sb/phd769
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",日韩10台
+rtmp://123.108.164.71/etv2sb/phd771
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",日韩12台
+rtmp://123.108.164.71/etv2sb/phd968
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",日韩14台
+rtmp://123.108.164.71/etv2sb/phd992
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",日韩15台
+rtmp://123.108.164.71/etv2sb/phd993
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",日韩16台
+rtmp://123.108.164.71/etv2/phd1003
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",日韩17台
+rtmp://123.108.164.71/etv2/phd1005
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",日韩19台
+rtmp://123.108.164.71/etv2/phd1008
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",一本道2
+rtmp://198.211.33.185/livepkgr/1C
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",一本道3
+rtmp://198.211.33.185/livepkgr/3C
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",一本道5
+rtmp://198.211.33.185/livepkgr/5C
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",一本道6
+rtmp://198.211.33.185/livepkgr/6C
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",韩CR电影4
+rtmp://123.108.164.71/etv2/phd1003
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",韩国21
+rtmp://123.108.164.71/etv2sb/pld993
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",韩国22
+rtmp://123.108.164.71/etv2/pld1003
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",韩国23
+rtmp://123.108.164.71/etv2/pld1005
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",韩国24
+rtmp://123.108.164.71/etv2/pld1006
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",韩国25
+rtmp://123.108.164.71/etv2/pld1008
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",韩国有22
+rtmp://123.108.164.71/etv2/phd1003
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",韩国有23
+rtmp://123.108.164.71/etv2/phd1005
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",韩国有24
+rtmp://123.108.164.71/etv2/phd1006
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",韩国有25
+rtmp://123.108.164.71/etv2/phd1008
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",KTV-HD
+rtmp://218.38.152.31/klive/klive.stream
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",韩国KCTV
+rtmp://122.202.129.136:1935/live/ch4
+#EXTINF:-1 group-title="05,cdn_hash=9c2a9bc8ed9e13fb7dd50f35e5b70264&amp;cdn_creation_time=1384717646&amp;cdn_ttl=600",一本道2
+rtmp://198.211.33.185/livepkgr/1C
