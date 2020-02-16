@@ -1,73 +1,23 @@
 #EXTM3U
-#EXTINF:-1 group-title="成人频道",韩国有码成人高清1
-http://123.108.164.71/etv2sb/phd10062/playlist.m3u8
-#EXTINF:-1 group-title="成人频道",韩国有码成人高清2
-http://123.108.164.110/etv1sb/phd10497/playlist.m3u8
-#EXTINF:-1 group-title="成人频道",韩国有码成人高清3
-http://123.108.164.71/etv2sb/phd10499/playlist.m3u8
-#EXTINF:-1 group-title="成人频道",韩国有码成人高清4
-http://123.108.164.71/etv2sb/phd10501/playlist.m3u8
-#EXTINF:-1 group-title="成人频道",韩国有码成人高清5
-http://123.108.164.110/etv1sb/phd10765/playlist.m3u8
-#EXTINF:-1 group-title="成人频道",韩国有码成人高清6
-http://123.108.164.110/etv1sb/phd10766/playlist.m3u8
-#EXTINF:-1 group-title="成人频道",韩国有码成人高清7
-http://123.108.164.71/etv2sb/phd10769/playlist.m3u8
-#EXTINF:-1 group-title="成人频道",韩国有码成人高清8
-http://123.108.164.71/etv2sb/phd10771/playlist.m3u8
-#EXTINF:-1 group-title="成人频道",韩国有码成人高清9
-http://123.108.164.71/etv2sb/phd10772/playlist.m3u8
-#EXTINF:-1 group-title="成人频道",韩国有码成人高清10
-http://123.108.164.110/etv1sb/phd10927/playlist.m3u8
-#EXTINF:-1 group-title="成人频道",韩国有码成人高清11
-http://123.108.164.110/etv1sb/phd10928/playlist.m3u8
-#EXTINF:-1 group-title="欧美",欧美裸模-1
-http://46.249.213.87/iPhone/broadcast/youdiva-iphone.3gp.m3u8	
-#EXTINF:-1 group-title="欧美",欧美裸模-2
-http://46.249.213.93/iPhone/broadcast/hotshots-iphone.3gp.m3u8	
-#EXTINF:-1 group-title="欧美",欧美裸模-3
-http://46.249.213.93/iPhone/broadcast/bellaclub-iphone.3gp.m3u8	
-#EXTINF:-1 group-title="欧美",欧美裸模-4
-http://46.249.213.93/iPhone/broadcast/powergirls-iphone.3gp.m3u8	
-#EXTINF:-1 group-title="欧美",欧美裸模-5
-http://46.249.213.93/iPhone/broadcast/babespotting-iphone.3gp.m3u8	
-#EXTINF:-1 group-title="欧美",欧美裸模-6
-http://46.249.213.93/iPhone/broadcast/hotshotsbeachbabes-iphone.3gp.m3u8
-#EXTINF:-1 group-title="成人频道",午夜6
-http://cr.stream.omc.hk/etv2/phd1005/chunklist_w2141649816.m3u8
-#EXTINF:-1 group-title="日本",日本AV1
-http://edge2.everyon.tv/etv2/phd1005/chunklist_w982667849.m3u8
-#EXTINF:-1 group-title="日本",日本AV2
-http://edge2.everyon.tv/etv2/phd1003/BratuMarian.m3u8
-#EXTINF:-1 group-title="日本",日本AV3
-http://edge2.everyon.tv/etv2/phd1005/BratuMarian.m3u8
-#EXTINF:-1 group-title="韩国",韩国性交1
-http://edge2.everyon.tv/etv2/pld1003/playlist.m3u8
-#EXTINF:-1 group-title="韩国",韩国性交2
-http://cr.stream.omc.hk/etv2/phd1003/playlist.m3u8
-#EXTINF:-1 group-title="韩国",韩国性交3
-http://cr.stream.omc.hk/etv2/phd1003/playlist.m3u8
-#EXTINF:-1 group-title="韩国",韩国性交4
-http://cr.stream.omc.hk/etv2/phd1006/playlist.m3u8
-#EXTINF:-1 group-title="韩国",韩国性交5
-http://cr.stream.omc.hk/etv2/phd1005/playlist.m3u8
-#EXTINF:-1 group-title="成人频道",成人1
-http://edge2.everyon.tv/etv2sb/pld993/playlist.m3u8
-#EXTINF:-1 group-title="成人频道",成人电影27
-http://videohttp2.porndig.com/videos/2014/05/54311_20140514.smil/chunklist_b730000.m3u8
-#EXTINF:-1 group-title="成人频道",ソタチツッテトヰ1
-http://edge2.everyon.tv/etv2/phd1005/chunklist_w982667849.m3u8
-#EXTINF:-1 group-title="成人频道",王子10
-http://cr.stream.omc.hk/etv2/phd1003/playlist.m3u8
-#EXTINF:-1 group-title="成人频道",王子10
-http://cr.stream.omc.hk/etv2/phd1003/playlist.m3u8
-#EXTINF:-1 group-title="成人频道",午夜6
-http://cr.stream.omc.hk/etv2/phd1005/chunklist_w2141649816.m3u8
-#EXTINF:-1 group-title="成人频道",梦幻1頻道*
-http://210.200.79.26:1935/live/aracity_m_new/chunklist.m3u8
-#EXTINF:-1 group-title="成人频道",梦幻2頻道*
-http://210.200.79.26:1935/live/aracity02/chunklist.m3u8
-#EXTINF:-1 group-title="日本",日本成人頻道
-http://210.200.79.26:1935/live/aracity02/playlist.m3u8
-#EXTINF:-1 group-title="成人频道",卡通頻道*
-http://210.200.79.26:1935/live/aracity01/playlist.m3u8
+#EXTINF:-1,HOT1
+https://5a2a51fc4cfde.streamlock.net/lfh/definst/Stream1/playlist.m3u8
+#EXTINF:-1,HOT2
+https://5a2a51fc4cfde.streamlock.net/lfh/definst/Stream2/playlist.m3u8
+#EXTINF:-1,HOT3
+https://5a2a51fc4cfde.streamlock.net/lfh/definst/Stream4/chunklist_w2094125752.m3u8
+#EXTINF:-1,松视1台
+http://185.216.119.139:2015/ftvs.php?channelid=55a8b751a960e4dc08d211dd&channeltype=1
+#EXTINF:-1,松视2台
+http://185.216.119.139:2015/ftvs.php?channelid=55a8b774a960e4dc08d211de&channeltype=1
+#EXTINF:-1,松视5台
+http://185.216.119.139:2015/ftvs.php?channelid=5795c5a5326d2e110eca080e&channeltype=1
+#EXTINF:-1,彩虹电影
+http://60.248.127.231:1633/0.ts
+#EXTINF:-1,惊艳成人
+p2p://217.182.18.136:9906/5c1b59920009ca412f87ddff5d4a7579
+#EXTINF:-1,香蕉台HD
+p2p://217.182.18.136:9906/5c1b5992000891732f87ddb16fe73efd
+#EXTINF:-1,K频道
+p2p://217.182.18.136:9906/5c1b59930009357b2f87e1c85f5f312f
+#EXTINF:-1,HAPPY
+p2p://217.182.18.136:9906/5c1b599300069db92f87e11c71314f92
